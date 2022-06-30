@@ -1,0 +1,495 @@
+<h1>The 1976 Excavations at Threpsiades: Pottery Catalog</h1>
+<p>An emerging catalog.</p>
+<h2>Classical to Hellenistic</h2>
+kth1879 Corinthian A Amphora 
+kth1795 Corinthian A Amphora
+<h2>Early to Middle Roman Types</h2>
+<h3>Eastern Sigillata A</h3>
+kth2727 ESA Plate 
+kth2255 ESA Hayes Form 42 
+kth2052 ESA Hayes Form 46 
+kth1994 ESA Plate
+<h3>Eastern Sigillata B</h3>
+kth0203 Eastern Sigillata B Hayes Form 58
+kth2341 ESB Hayes Form 60 
+kth2726 ESB Bowl 
+<h3>Eastern Sigillata C</h3>
+kth0987 ESC Hayes Form 3 
+kth2510 ESC Hayes Form 4
+kth2265 ESC Plate with Stamp 
+<h3>Pontic Sigillata</h3>
+
+
+:q!
+kth1436 Pontic Sigillata Zhuravlev Form 2 
+kth2127 Pontic Sigillata Bowl 
+kth1590 Pontic Sigillata Zhuravlev Form 14 Bowl 
+kth2469 Pontic Sigillata Bowl 
+<h3>African Red Slip</h3>
+kth0688  ARS Hayes Form 50
+kth0632 ARS Hayes Form 50b
+kth1224 ARS Hayes Form 50b
+
+kth2673 ARS Hayes Form 67
+kth1621 ARS Hayes Form 67  
+
+kth1011 ARS Hayes Form 68
+kth2169 ARS Hayes Form 68 
+
+kth1598 ARS Bowl (perhaps associated with latest use of complex)
+
+<h3>Regional(?) Tablewares</h3>
+kth2604 Roman Semifine Ware Bowl Rim 
+kth0974 Roman Semi-Slipped Bowl, Corinthian?
+kth2254 Early Roman Semi-fine Cup
+<h3>Aegean Thin-walled Vessels</h3>
+kth2579 Thin-Walled Ware Cup 
+kth2103 Cup/Jug (MR Aegean?)
+
+<h3>Other ER - MR vessels</h3>
+kth2746 Trefoil-Mouth Jug 
+kth1131 Thin-Walled Ware Cup 
+kth2752 Roman Mortarium 
+kth1890 Frying Pan 
+<h3>Early to Middle Roman Amphoras</h3>
+kth2444 Hellenistic-Roman Bifid Amphora Handle
+kth2504 Roman Amphora
+kth0644 Forlimpopoli Amphora
+kth0489 Middle Roman Amphora 4
+kth0669 Middle Roman Amphora 5 
+kth2714 Middle Roman Amphora 5
+kth1668 Middle Roman Amphora 7
+kth2013 Middle Roman Amphora 7
+kth2065 Middle Roman Amphora 7
+kth1932 Roman Amphora
+kth1997 Roman Amphora
+<h2>Fifth to Seventh Century Types</h2>
+<h3>Phocaean Red Slip (LRC)</h3>
+kth0738 PRS Hayes Form 3 
+kth0022 PRS Hayes Form 3
+kth0464 PRS Hayes Form 3 
+kth0466 PRS Hayes Form 3b 
+kth0521 PRS Hayes Form 3h 
+
+kth1120 PRS Hayes Form 3/10a 
+kth1120 PRS Hayes Form 3/10a 
+
+kth0996 PRS Hayes Form 10a
+kth1024 PRS Hayes Form 10a
+kth0739 PRS Hayes Form 10a
+kth1603 PRS Hayes Form 10a 
+kth0058 PRS Hayes Form 10
+kth0455 PRS Hayes Form 10a
+kth0955 PRS Hayes Form 10a
+kth0001 PRS Hayes Form 10a
+kth1169 PRS Hayes Form 10a
+kth2131 PRS Hayes Form 10a 
+kth1060 PRS Hayes Form 10a
+kth2019 PRS Hayes Form 10a
+kth1271 PRS Hayes Form 10a 
+kth1516 PRS Hayes Form 10a 
+kth0048 PRS Hayes Form 10b
+kth0003 PRS Hayes Form 10c
+kth0450 PRS Hayes Form 10c
+
+kth0511 Phocaean Red Slip 
+kth0512 Phocaean Red Slip
+kth1079 PRS Dish 
+<h3>Athenian Painted Ware</h2>
+kth2779 Athenian Painted-Ware Platter or Bowl 
+kth2213 Athenian Imitation of ARS Hayes Form 61 
+<h3>African Red Slip</h3>
+kth2170 ARS Hayes Form 99
+kth1628 ARS Hayes Form 99 
+kth1002 ARS Hayes Form 99c 
+kth1504 ARS Hayes Form 99c 
+
+kth0186 ARS Hayes Form 105
+kth0185 ARS Hayes Form 105
+kth0187 ARS Hayes Form 105
+kth0188 ARS Hayes Form 105
+kth0271 ARS Hayes Form 105
+kth0453 ARS Hayes Form 105
+kth0484 ARS Hayes Form 105
+kth0520 ARS Hayes Form 105
+kth2780 ARS Hayes Form 105
+kth2781 ARS Hayes Form 105
+kth2783 ARS Hayes Form 105
+kth2783 ARS Hayes Form 105
+kth2784 ARS Hayes Form 105
+kth1017 ARS Hayes Form 105
+kth1553 ARS Hayes Form 105
+kth2203 ARS Hayes Form 105
+kth2421 ARS Hayes Form 105 
+kth1777 ARS Hayes Form 105 
+kth2132 ARS Hayes Form 105 
+kth2133 ARS Hayes Form 105
+kth2741 ARS Hayes Form 105 
+kth2782 ARS Plate 
+
+kth0461 ARS Hayes Form 109
+kth0647 ARS Hayes Form 109
+kth2054 ARS Hayes Form 109
+
+kth2048 ARS Bowl/Plate
+kth2473 ARS Bowl/Plate
+kth2785 ARS Plate
+kth1003 ARS 
+kth0723  ARS 
+<h3>Long Spouted Funnels</h3>
+While no complete vessel is preserved, the association between the rims listed here and the long spouts is well supported.
+kth1281 Late Roman Long-Spout Funnel 
+kth2218 Late Roman Funnel 
+kth0059 Late Roman Funnel
+kth2747 Late Roman Funnel
+kth2748 Late Roman Funnel
+kth0663 Late Roman Funnel
+kth2406 Late Roman Long-Spout Funnel
+kth2513 Late Roman Small Funnel
+kth0233 Late Roman Long-Spout Funnel
+kth0008 Late Roman Long-Spout Funnel
+kth0057 Late Roman Long-Spout Funnel
+kth0182 Late Roman Long-Spout Funnel
+kth0275 Late Roman Long-Spout Funnel
+kth2526 Late Roman Long-Spout Funnel
+kth1443 Late Roman Funnel 
+kth1805 Late Roman Funnel 
+kth2236 Late Roman Coarse Ware Bowl or Funnel? 
+kth0510 Lid/Funnel[?] 
+kth0722 Funnel? 
+<h3>Other Funnels</h3>
+kth0180 Late Roman Short-Spout Funnel
+kth0668 Funnel with incurved rim
+kth0667 Funnel with wide tapering spout
+<h3>Utilitarian Vessels in near LRA2 fabric</h3>
+kth2016 Flanged bowl
+kth2017 Jug
+<h3>Late Roman Amphora 2: Argolid and Closely Related Fabrics</h3>
+kth0442 Late Roman Amphora 2
+kth0010 Late Roman Amphora 2
+kth0513 Late Roman Amphora 2
+kth0514 Late Roman Amphora 2 
+kth0005 Late Roman Amphora 2
+kth1111 Late Roman Amphora 2
+kth0850 Late Roman Amphora 2
+kth0813 Late Roman Amphora 2
+kth2617 Late Roman Amphora 2
+kth0953 Late Roman Amphora 2
+kth0914 Late Roman Amphora 2 
+kth0496 Late Roman Amphora 2
+kth1501 Late Roman Amphora 2 (“Micaceious variant”)
+kth2175 Late Roman Amphora 2
+kth1546 Late Roman Amphora 2 
+kth1701 Late Roman Amphora 2 
+kth1712 Late Roman Amphora 2 
+kth0706 Late Roman Amphora 2 Button toe
+kth1917 Late Roman Amphora 2 Toe
+kth2007 LRA2 Toe (“Micaceous variant”)
+kth1974 LRA2 Toe (“Micaceous variant”)
+<h3>Late Roman Amphora 2: Other Fabrics</h3>
+kth1445 “Lightly Combed” Late Roman Amphora 2
+kth1637 LRA2 in Coarse Fabric
+kth1446 Late Roman Amphora 2 
+kth1904 Late Roman Ampjhora 2 in Coarse Red Fabric
+kth1082 Late Roman Amphora 2 in red fabric with tiny glistening golden micaceous flakes
+<h3>Small Late Roman Amphora 2</h3>
+kth0007 Small Late Roman Amphora 2: dipinto
+kth2643 Small Late Roman Amphora 2: sherd with dipinto 
+kth0816 Small Late Roman Amphora 2
+kth0837 Small Late Roman Amphora 2
+kth0807 Small Late Roman Amphora 2 
+kth0012 Small Late Roman Amphora 2
+kth0006 Small Late Roman Amphora 2
+kth2776 Small Late Roman Amphora 2 
+kth1113 Small Late Roman Amphora 2
+kth1042 Small Late Roman Amphora 2 
+kth2233 Small Late Roman Amphora 2 
+kth2420 Small Late Roman Amphora 2
+kth0880 Small Late Roman Amphora 2
+kth0749 Small Late Roman Amphora 
+<h3>Late Roman Amphora 2  Body Sherds with <i>Dipinti</i></h3>
+kth2621 Late Roman Amphora 2: sherd with dipinto 
+kth1740 Small Late Roman Amphora 2: sherd with dipinto 
+<h3>Samos Cistern Amphora</h3>
+kth1323 Samos Cistern Amphora
+kth0720 Samos Cistern Amphora
+kth0768 Samos Cistern Amphora
+kth2075 Samos CIstern Amphora
+kth2077 Samos Cistern Amphora
+kth1482 Samos Cistern Amphora
+kth2150 Samos Cistern Amphora
+kth2224 Samos Cistern Amphora variant production 
+kth0574 Samos Cistern Amphora type toes
+kth0769 Roman Amphora 
+kth1539 Samos Cistern Amphora 
+kth1611 Samos Cistern Amphora 
+kth2182 Samos Cistern Amphora 
+<h3>Late Roman Amphora 1</h3>
+kth0273 Late Roman Amphora 1
+kth1066 Late Roman Amphora 1 
+kth1920 Late Roman Amphora 1 
+kth1177 Late Roman Amphora 1 
+kth1782 Late Roman Amphora 1 
+kth2171 Late Roman Amphora 1
+kth0956 Late Roman Amphora 1, base
+<h3>Late Roman Amphora 3</h3>
+kth1220 Late Roman Amphora 3 
+kth1388 Late Roman Amphora 3 
+kth1612 Late Roman Amphora 3 
+kth2192 Late Roman Amphora 3
+kth0297 Late Roman Amphora 3
+kth1122 Late Roman Amphora 3 
+kth1785 Middle Roman/Late Roman Amphora 3
+kth1811 Late Roman Amphora 3
+kth2165 Late Roman Amphora 3 
+<h3>Late Roman Amphora 4</h3>
+kth0292 Late Roman Amphora 4
+kth1499 Late Roman Amphora 4, variant production? 
+kth0475 Late Roman Amphora 4
+kth0165 Late Roman Amphora 4
+kth1171 Late Roman Amphora 4 
+kth1175 Late Roman Amphora 4 
+kth1117 Late Roman Amphora 4 
+kth1901 Late Roman Amphora 4
+<h3>Late Roman Amphora 4 in LRA5 fabric</h3>
+kth0995 LRA4 in LRA5 fabric
+<h3>Late Roman Amphora 5 and 6</h3>
+kth0274 Late Roman Amphora 5
+kth1152 Late Roman Amphora 5
+kth0191 Late Roman Amphora 5 
+kth0977 Late Roman Amphora 5 
+kth2797 Late Roman Amphora 5[?] with painted decoration
+kth2798 Late Roman Amphora 5[?] with painted decoration
+kth1580 Late Roman Amphora 5 
+kth1906 Late Roman Amphora 5 
+kth2691 Late Roman Amphora 5: painted 
+kth1494 Late Roman Amphora 5: pierced sherd 
+kth2692 Late Roman Amphora 5/6 with painted decoration 
+kth2801 Late Roman Amphora 5 
+kth1807 Late Roman Amphora 6 
+kth1221 Late Roman Amphora 6
+kth1389 Late Roman Amphora 6 
+kth1389 Late Roman Amphora 6 
+<h3>“Beirut” Amphora</h3>
+kth1567 Beirut 8 Amphora: sherd with dipinto 
+kth0454 Beirut 8 Amphora 
+kth2516 Near Beirut Amphora 8, Small
+kth2368 Beirut 8 Amphora 
+kth2379 Beirut 2 Amphora 
+<h3>Pontic Amphora</h2>
+kth1007 LR Amphora from Amastris(?)
+<h3>Other Amphoras</h3>
+kth2195 Late Roman Amphora
+kth0805 Saraçhane 22 Amphora 
+kth1648 Africana 3C/Keay 25 Amphora 
+kth1685 Keay 62 African Amphora
+kth0891 Roman Amphora 
+kth0002 Spatheion
+kth0960 Late Roman Amphora  
+kth2804 Late Roman Amphora with dipinto
+<h3>Palestinian Coarsewares</h3>
+kth1359 Late Roman Palestinian “String Cut” Cooking Pot
+kth0004 Late Roman Palestinian “String Cut” Cooking Pot
+kth0774 Late Roman Palestinian “String Cut” Cooking Pot Lid
+kth1870 Handle in Palestinain “string cut” fabric
+kth0260 Late Roman Palestinian Frying Pan 
+kth0268 Late Roman Palestinian Strainer
+kth1163 Palestinian Combed Jug 
+
+<h3>Vessels Associated with Glass Working</h3>
+kth1688 Crucible?
+
+<h3>Jug with tall spout and rounded body<h3>
+kth0660 LR Cookpot
+kth1416 Late Roman/Early Byzantine Jug
+kth1702 Long Spouted Jug
+<h3>Early Byzantine vessels in Cookware fabrics</h2>
+kth1861 Cookpot
+kth1980 Deep pot
+kth0540 Late Roman Cooking Pot
+kth0674 Late Roman Cooking Pot 
+kth0675 Late Roman Cooking Pot
+kth0719 Late Roman Cooking Pot 
+kth0721 Late Roman Cooking Pot
+kth2514 Late Roman/Early Byzantine Cooking Pot 
+kth0508 Late Roman/Early Byzantine Cooking Pot 
+kth0578 Late Roman/Early Byzantine Cooking Pot 
+kth0673 Late Roman/Early Byzantine Cooking Pot 
+kth0701 Late Roman/Early Byzantine Cooking Pot
+kth0773 Late Roman Globular Cooking Pot 
+kth0775 Late Roman Cooking Pot
+kth0964 Late Roman Cooking Ware 
+kth0970 Late Roman Cooking Ware
+kth2409 Late Roman Cooking Pot 
+kth2416 Late Roman Cooking Pot 
+kth0465 Late Roman Deep Basin
+kth0815 Late Roman Cooking Pot 
+kth0844 Late Roman Cooking Pot 
+kth0899 Late Roman Cooking Pot 
+kth0904 Late Roman Cooking Pot 
+kth0981 Late Roman Cooking Ware 
+kth1229 Late Roman Cooking Pot 
+kth1246 Late Roman Cooking Pot 
+kth2768 Late Roman Cooking Pot 
+kth2769 Late Roman Cooking Pan 
+kth1116 Late Roman-Early Byzantine Cooking Pot 
+kth2382 Late Roman Cooking Pot 
+kth2383 Late Roman Cooking Pot 
+kth1521 Late Roman Cooking Pot 
+kth1536 Late Roman Cooking Pot 
+kth2137 Late Roman Cooking Pot 
+kth2138 Late Roman Cooking Pot 
+kth0946 Late Roman Cooking Ware 
+kth0947 Early Byzantine Cooking Pot 
+kth0949 Late Roman Cooking Pot 
+kth1063 Late Roman Cooking Pot 
+kth1075 Late Roman cooking ware 
+kth2684 Late Roman Cooking Pot 
+kth1808 Late Roman Cooking Pot 
+kth1801 Late Roman Cooking Pot 
+kth1849 Late Roman Cooking Pot 
+kth0737 Late Roman/Early Byzantine Cooking Pot 
+kth0740 Late Roman Cooking Pot 
+kth1665 Late Roman Cooking Pot 
+kth1676 Late Roman Cooking Ware 
+kth1686 Late Roman Cooking Pot 
+kth0770 Roman Cooking-Ware Lid 
+kth2384 Roman Cooking-Ware Lid 
+kth2319 Roman Cooking-Ware Lid 
+<h3>Other Late Roman Uitilitarian Vessels and Forms</h3>
+kth0901 Large Storage Vessel Handle w/Incised Palm 
+kth0127 Late Roman Bowl-Strainer 
+kth0151 Late Roman/Early Byzantine Jug 
+kth0483 Late Roman Deep Basin
+kth2369 Roman Ceramic Grill 
+kth2126 Jug? with punched-hole decoration 
+kth2793 Pithos
+kth0690 Pithos 
+kth1153 Water Pipe 
+<h2>Later Vessels</h2>
+kth2743 Middle Byzantine Painted-Ware Bowl
+kth1620 Middle Byzantine Fine Sgraffito Ware Bowl 
+
+<h2>Uncategorized</h2>
+kth0207 Late Roman/Early Byzantine Regional Lamp 
+kth0215 Roman Regional Cup 
+kth0458 Late Roman/Early Byzantine Regional Stewpot 
+kth0460 Late Roman Shallow Basin 
+kth0481 Late Roman Amphora 
+kth0518 Late Roman Deep Basin 
+kth0522 Late Roman[?] Red-Slip Bowl 
+kth0571 Late Roman Jug 
+kth0593 Late Roman Jug/Jar/Table Amphora 
+kth0640 Roman Amphora 
+kth0659 Jug 
+kth0672 Bowl/Basin 
+kth0689 Late Roman Red Slip 
+kth0702 ESA Jug? 
+kth0724 Roman Large Bowl 
+kth0803 Late Roman Large Basin 
+kth0804 Late Roman Deep Basin 
+kth0865 Late Roman Amphora  
+kth0908 Roman Basin
+kth0916 Late Roman Plain-Ware Large Jug or Table Amphora 
+kth0951 Late Roman Basin 
+kth0954 Late Roman Basin 
+kth0998 Late Roman Unguentarium 
+kth1009 Basin/bowl 
+kth1010 Cooking-Ware Lid
+kth1016 Late Roman Deep Basin 
+kth1028 Late Roman Cooking Ware 
+kth1034 Roman Cooking-Ware Lid 
+kth1045 Late Roman Deep Basin 
+kth1056 Late Roman Cooking Pan 
+kth1061 Late Roman Deep Basin 
+kth1134 Plain ware 
+kth1155 Convex Base or Hollow Knob from Cover? 
+kth1157 Late Roman Deep Basin
+kth1158 Jug 
+kth1162 Late Roman cooking ware 
+kth1170 Deep Basin
+kth1213 Late Roman cooking pot 
+kth1250 Trefoil-Mouth Pitcher 
+kth1268 Late Roman Cooking Pot 
+kth1273 Late Roman Cooking Pot 
+kth1278 Middle Roman Amphora 7 
+kth1289 Early Roman Bulbous Unguentarium 
+kth1312 Late Hellenistic/Early Roman Red Slip Bowl 
+kth1315 Amphora Toe or Hollow Knob from Cover? 
+kth1343 Late Roman Deep Basin 
+kth1351 Amphora Toe or Hollow Knob from Cover? 
+kth1368 Jug 
+kth1374 Saraçhane 22 Amphora 
+kth1376 Late Roman Globular Cooking Pot 
+kth1395 Jug Base 
+kth1400 Phocaean Red Slip 
+kth1401 Spouted Jug 
+kth1402 One-handled Jug with Thumb Rest 
+kth1424 Roman Amphora 
+kth1429 Table Amphora? 
+kth1435 Amphora 
+kth1465 Small Amphora Stopper/Lid, variant production 
+kth1468 Cooking ware 
+kth1510 Knidian Moldmade Vessel 
+kth1512 Late Roman Cooking Ware 
+kth1520 Roman Cooking Ware 
+kth1550 Sherd with Punched Holes 
+kth1605 Late Roman Cooking Pot 
+kth1607 Roman Red Slip Bowl 
+kth1610 Late Roman Amphora, Ephesian? 
+kth1613 Phocaean Red Slip 
+kth1661 Late Roman Deep Basin 
+kth1704 Late Roman Cooking Pot 
+kth1709 Painted Byzantine[?] Vessel 
+kth1733 Bowl 
+kth1735 Thin-wall beaker with high flaring rim 
+kth1738 Roman Thin-Walled Jug 
+kth1743 Middle Roman Basin 
+kth1745 Phocaean Cookware 
+kth1746 Late Roman Bowl? 
+kth1754 Late Roman cooking ware  
+kth1797 Phocaean Red Slip 
+kth1852 Frying Pan 
+kth1867 Late Roman Large Bowl or Table Amphora 
+kth1871 Late Roman Bowl or Table Amphora 
+kth1876 Late Roman Cooking Ware 
+kth1877 Late Roman Casserole 
+kth1919 Basin
+kth1986 Late Roman Cooking Ware 
+kth2018 Jug 
+kth2037 Roman Basin 
+kth2041 Late Roman/Early Byzantine Ampulla with Monogram 
+kth2053 Jug/Cup 
+kth2056 Phocaean Red Slip 
+kth2071 Basin 
+kth2081 Phocaean Red-Slip 
+kth2085 Large Plain-Ware Bowl or Table Amphora
+kth2089 Late Roman Deep Basin 
+kth2110 Late Roman Shallow Basin 
+kth2115 Lid 
+kth2166 Late Roman Coarse Ware Pot 
+kth2183 Late Roman bowl/basin 
+kth2185 Roman Coarse-Ware Pitcher 
+kth2191 Regional Water Jar 
+kth2252 Water Pipe 
+kth2269 Roman Red-Slip Jug 
+kth2276 Early-Middle Roman Casserole? 
+kth2393 Roman Small Basin[?] 
+kth2468 Regional Red-Slip Bowl 
+kth2511 Late Roman Cooking Pot 
+kth2512 Laconian Rooftile 
+kth2564 Plain Ware Bowl 
+kth2601 Middle Roman Coarse-Ware Pitcher 
+kth2606 Middle Roman Coarse-Ware Pitcher 
+kth2634 Plain ware jug 
+kth2639 Late Roman Cooking Pot 
+kth2674 Plain ware bowl 
+kth2683 Basin 
+kth2713 Bowl/basin  
+kth2719 PRS Dish 
+kth2720 Basin 
+kth2721 Jug 
+kth2729 Coarse ware  
+kth2744 Roman Coarse-Ware Bowl 
+kth2759 Late Roman Amphora 
+kth2772 Painted Basin or Amphora
