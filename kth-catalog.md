@@ -1,28 +1,36 @@
-<h1>The 1976 Excavations at Threpsiades: Pottery Catalog</h1>
-<p>An emerging catalog.</p>
-<h2>Classical to Hellenistic</h2>
+# The 1976 Excavations at Threpsiades: Pottery Catalog
+
+An emerging catalog.
+
+## Classical to Hellenistic
 - [urn:kaa:kth/kth1879 Corinthian A Amphora]
 - [urn:kaa:kth/kth1795 Corinthian A Amphora]
-<h2>Early to Middle Roman Types</h2>
-<h3>Eastern Sigillata A</h3>
+
+## Early to Middle Roman Types
+
+### Eastern Sigillata A
 - [urn:kaa:kth/kth2727 ESA Plate]
 - [urn:kaa:kth/kth2255 ESA Hayes Form 42]
 - [urn:kaa:kth/kth2052 ESA Hayes Form 46]
 - [urn:kaa:kth/kth1994 ESA Plate]
-<h3>Eastern Sigillata B</h3>
+
+### Eastern Sigillata B
 - [urn:kaa:kth/kth0203 Eastern Sigillata B Hayes Form 58]
 - [urn:kaa:kth/kth2341 ESB Hayes Form 60]
 - [urn:kaa:kth/kth2726 ESB Bowl]
-<h3>Eastern Sigillata C</h3>
+
+### Eastern Sigillata C
 - [urn:kaa:kth/kth0987 ESC Hayes Form 3]
 - [urn:kaa:kth/kth2510 ESC Hayes Form 4]
 - [urn:kaa:kth/kth2265 ESC Plate with Stamp]
-<h3>Pontic Sigillata</h3>
+
+### Pontic Sigillata
 - [urn:kaa:kth/kth1436 Pontic Sigillata Zhuravlev Form 2]
 - [urn:kaa:kth/kth2127 Pontic Sigillata Bowl]
 - [urn:kaa:kth/kth1590 Pontic Sigillata Zhuravlev Form 14 Bowl]
 - [urn:kaa:kth/kth2469 Pontic Sigillata Bowl]
-<h3>African Red Slip</h3>
+
+### African Red Slip
 - [urn:kaa:kth/kth0688  ARS Hayes Form 50]
 - [urn:kaa:kth/kth0632 ARS Hayes Form 50b]
 - [urn:kaa:kth/kth1224 ARS Hayes Form 50b]
@@ -31,19 +39,23 @@
 - [urn:kaa:kth/kth1011 ARS Hayes Form 68]
 - [urn:kaa:kth/kth2169 ARS Hayes Form 68]
 - [urn:kaa:kth/kth1598 ARS Bowl (perhaps associated with latest use of complex)]
-<h3>Regional(?) Tablewares</h3>
+
+### Regional(?) Tablewares
 - [urn:kaa:kth/kth2604 Roman Semifine Ware Bowl Rim]
 - [urn:kaa:kth/kth0974 Roman Semi-Slipped Bowl, Corinthian?]
 - [urn:kaa:kth/kth2254 Early Roman Semi-fine Cup]
-<h3>Aegean Thin-walled Vessels</h3>
+
+### Aegean Thin-walled Vessels
 - [urn:kaa:kth/kth2579 Thin-Walled Ware Cup]
 - [urn:kaa:kth/kth2103 Cup/Jug (MR Aegean?)]
-<h3>Other ER - MR vessels</h3>
+
+### Other ER - MR vessels
 - [urn:kaa:kth/kth2746 Trefoil-Mouth Jug]
 - [urn:kaa:kth/kth1131 Thin-Walled Ware Cup]
 - [urn:kaa:kth/kth2752 Roman Mortarium]
 - [urn:kaa:kth/kth1890 Frying Pan]
-<h3>Early to Middle Roman Amphoras</h3>
+
+### Early to Middle Roman Amphoras
 - [urn:kaa:kth/kth2444 Hellenistic-Roman Bifid Amphora Handle]
 - [urn:kaa:kth/kth2504 Roman Amphora]
 - [urn:kaa:kth/kth0644 Forlimpopoli Amphora]
@@ -55,8 +67,10 @@
 - [urn:kaa:kth/kth2065 Middle Roman Amphora 7]
 - [urn:kaa:kth/kth1932 Roman Amphora]
 - [urn:kaa:kth/kth1997 Roman Amphora]
-<h2>Fifth to Seventh Century Types</h2>
-<h3>Phocaean Red Slip (LRC)</h3>
+
+## Fifth to Seventh Century Types
+
+### Phocaean Red Slip (LRC)
 - [urn:kaa:kth/kth0738 PRS Hayes Form 3]
 - [urn:kaa:kth/kth0022 PRS Hayes Form 3]
 - [urn:kaa:kth/kth0464 PRS Hayes Form 3]
@@ -84,10 +98,12 @@
 - [urn:kaa:kth/kth0511 Phocaean Red Slip]
 - [urn:kaa:kth/kth0512 Phocaean Red Slip]
 - [urn:kaa:kth/kth1079 PRS Dish]
-<h3>Athenian Painted Ware</h3>
+
+### Athenian Painted Ware
 - [urn:kaa:kth/kth2779 Athenian Painted Ware Platter or Bowl]
 - [urn:kaa:kth/kth2213 Athenian Imitation of ARS Hayes Form 61]
-<h3>African Red Slip</h3>
+
+### African Red Slip
 - [urn:kaa:kth/kth2170 ARS Hayes Form 99]
 - [urn:kaa:kth/kth1628 ARS Hayes Form 99]
 - [urn:kaa:kth/kth1002 ARS Hayes Form 99c]
@@ -122,8 +138,11 @@
 - [urn:kaa:kth/kth2785 ARS Plate]
 - [urn:kaa:kth/kth1003 ARS]
 - [urn:kaa:kth/kth0723  ARS]
-<h3>Long Spouted Funnels</h3>
+
+### Long Spouted Funnels
+
 While no complete vessel is preserved, the association between the rims listed here and the long spouts is well supported.
+
 - [urn:kaa:kth/kth1281 Late Roman Long-Spout Funnel]
 - [urn:kaa:kth/kth2218 Late Roman Funnel]
 - [urn:kaa:kth/kth0059 Late Roman Funnel]
@@ -143,14 +162,17 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth2236 Late Roman Coarse Ware Bowl or Funnel?]
 - [urn:kaa:kth/kth0510 Lid/Funnel?]
 - [urn:kaa:kth/kth0722 Funnel?]
-<h3>Other Funnels</h3>
+
+### Other Funnels
 - [urn:kaa:kth/kth0180 Late Roman Short-Spout Funnel]
 - [urn:kaa:kth/kth0668 Funnel with incurved rim]
 - [urn:kaa:kth/kth0667 Funnel with wide tapering spout]
-<h3>Utilitarian Vessels in near LRA2 fabric</h3>
+
+### Utilitarian Vessels in near LRA2 fabric
 - [urn:kaa:kth/kth2016 Flanged bowl]
 - [urn:kaa:kth/kth2017 Jug]
-<h3>Late Roman Amphora 2: Argolid and Closely Related Fabrics</h3>
+
+### Late Roman Amphora 2: Argolid and Closely Related Fabrics
 - [urn:kaa:kth/kth0442 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0010 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0513 Late Roman Amphora 2]
@@ -172,13 +194,15 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1917 Late Roman Amphora 2 Toe]
 - [urn:kaa:kth/kth2007 LRA2 Toe (“Micaceous variant”)]
 - [urn:kaa:kth/kth1974 LRA2 Toe (“Micaceous variant”)]
-<h3>Late Roman Amphora 2: Other Fabrics</h3>
+
+### Late Roman Amphora 2: Other Fabrics
 - [urn:kaa:kth/kth1445 “Lightly Combed” Late Roman Amphora 2]
 - [urn:kaa:kth/kth1637 LRA2 in Coarse Fabric]
 - [urn:kaa:kth/kth1446 Late Roman Amphora 2]
 - [urn:kaa:kth/kth1904 Late Roman Ampjhora 2 in Coarse Red Fabric]
 - [urn:kaa:kth/kth1082 Late Roman Amphora 2 in red fabric with tiny glistening golden micaceous flakes]
-<h3>Small Late Roman Amphora 2</h3>
+
+### Small Late Roman Amphora 2
 - [urn:kaa:kth/kth0007 Small Late Roman Amphora 2: dipinto]
 - [urn:kaa:kth/kth2643 Small Late Roman Amphora 2: sherd with dipinto]
 - [urn:kaa:kth/kth0816 Small Late Roman Amphora 2]
@@ -193,10 +217,12 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth2420 Small Late Roman Amphora 2]
 - [urn:kaa:kth/kth0880 Small Late Roman Amphora 2]
 - [urn:kaa:kth/kth0749 Small Late Roman Amphora]
-<h3>Late Roman Amphora 2  Body Sherds with <i>Dipinti</i></h3>
+
+### Late Roman Amphora 2: Body Sherds with <i>Dipinti</i>
 - [urn:kaa:kth/kth2621 Late Roman Amphora 2: sherd with dipinto]
 - [urn:kaa:kth/kth1740 Small Late Roman Amphora 2: sherd with dipinto]
-<h3>Samos Cistern Amphora</h3>
+
+### Samos Cistern Amphora
 - [urn:kaa:kth/kth1323 Samos Cistern Amphora]
 - [urn:kaa:kth/kth0720 Samos Cistern Amphora]
 - [urn:kaa:kth/kth0768 Samos Cistern Amphora]
@@ -210,7 +236,8 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1539 Samos Cistern Amphora]
 - [urn:kaa:kth/kth1611 Samos Cistern Amphora]
 - [urn:kaa:kth/kth2182 Samos Cistern Amphora]
-<h3>Late Roman Amphora 1</h3>
+
+### Late Roman Amphora 1
 - [urn:kaa:kth/kth0273 Late Roman Amphora 1]
 - [urn:kaa:kth/kth1066 Late Roman Amphora 1]
 - [urn:kaa:kth/kth1920 Late Roman Amphora 1]
@@ -218,7 +245,8 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1782 Late Roman Amphora 1]
 - [urn:kaa:kth/kth2171 Late Roman Amphora 1]
 - [urn:kaa:kth/kth0956 Late Roman Amphora 1, base]
-<h3>Late Roman Amphora 3</h3>
+
+### Late Roman Amphora 3
 - [urn:kaa:kth/kth1220 Late Roman Amphora 3]
 - [urn:kaa:kth/kth1388 Late Roman Amphora 3]
 - [urn:kaa:kth/kth1612 Late Roman Amphora 3]
@@ -228,7 +256,8 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1785 Middle Roman/Late Roman Amphora 3]
 - [urn:kaa:kth/kth1811 Late Roman Amphora 3]
 - [urn:kaa:kth/kth2165 Late Roman Amphora 3]
-<h3>Late Roman Amphora 4</h3>
+
+### Late Roman Amphora 4
 - [urn:kaa:kth/kth0292 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1499 Late Roman Amphora 4, variant production?]
 - [urn:kaa:kth/kth0475 Late Roman Amphora 4]
@@ -237,9 +266,11 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1175 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1117 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1901 Late Roman Amphora 4]
-<h3>Late Roman Amphora 4 in LRA5 fabric</h3>
+
+### Late Roman Amphora 4 in LRA5 fabric
 - [urn:kaa:kth/kth0995 LRA4 in LRA5 fabric]
-<h3>Late Roman Amphora 5 and 6</h3>
+
+### Late Roman Amphora 5 and 6
 - [urn:kaa:kth/kth0274 Late Roman Amphora 5]
 - [urn:kaa:kth/kth1152 Late Roman Amphora 5]
 - [urn:kaa:kth/kth0191 Late Roman Amphora 5]
@@ -256,15 +287,18 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1221 Late Roman Amphora 6]
 - [urn:kaa:kth/kth1389 Late Roman Amphora 6]
 - [urn:kaa:kth/kth1389 Late Roman Amphora 6]
-<h3>“Beirut” Amphora</h3>
+
+### “Beirut” Amphora
 - [urn:kaa:kth/kth1567 Beirut 8 Amphora: sherd with dipinto]
 - [urn:kaa:kth/kth0454 Beirut 8 Amphora]
 - [urn:kaa:kth/kth2516 Near Beirut Amphora 8, Small]
 - [urn:kaa:kth/kth2368 Beirut 8 Amphora]
 - [urn:kaa:kth/kth2379 Beirut 2 Amphora]
-<h3>Pontic Amphora</h2>
+
+### Pontic Amphora
 - [urn:kaa:kth/kth1007 LR Amphora from Amastris(?)]
-<h3>Other Amphoras</h3>
+
+### Other Amphoras
 - [urn:kaa:kth/kth2195 Late Roman Amphora]
 - [urn:kaa:kth/kth0805 Saraçhane 22 Amphora]
 - [urn:kaa:kth/kth1648 Africana 3C/Keay 25 Amphora]
@@ -273,7 +307,8 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth0002 Spatheion]
 - [urn:kaa:kth/kth0960 Late Roman Amphora]
 - [urn:kaa:kth/kth2804 Late Roman Amphora with dipinto]
-<h3>Palestinian Coarsewares</h3>
+
+### Palestinian Coarsewares
 - [urn:kaa:kth/kth1359 Late Roman Palestinian “String Cut” Cooking Pot]
 - [urn:kaa:kth/kth0004 Late Roman Palestinian “String Cut” Cooking Pot]
 - [urn:kaa:kth/kth0774 Late Roman Palestinian “String Cut” Cooking Pot Lid]
@@ -281,13 +316,16 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth0260 Late Roman Palestinian Frying Pan]
 - [urn:kaa:kth/kth0268 Late Roman Palestinian Strainer]
 - [urn:kaa:kth/kth1163 Palestinian Combed Jug]
-<h3>Vessels Associated with Glass Working</h3>
+
+### Vessels Associated with Glass Working
 - [urn:kaa:kth/kth1688 Crucible?]
-<h3>Jug with tall spout and rounded body<h3>
+
+### Jug with tall spout and rounded body###
 - [urn:kaa:kth/kth0660 LR Cookpot]
 - [urn:kaa:kth/kth1416 Late Roman/Early Byzantine Jug]
 - [urn:kaa:kth/kth1702 Long Spouted Jug]
-<h3>Early Byzantine vessels in Cookware fabrics</h2>
+
+### Early Byzantine vessels in Cookware fabrics
 - [urn:kaa:kth/kth1861 Cookpot]
 - [urn:kaa:kth/kth1980 Deep pot]
 - [urn:kaa:kth/kth0540 Late Roman Cooking Pot]
@@ -340,7 +378,8 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth0770 Roman Cooking-Ware Lid]
 - [urn:kaa:kth/kth2384 Roman Cooking-Ware Lid]
 - [urn:kaa:kth/kth2319 Roman Cooking-Ware Lid]
-<h3>Other Late Roman Uitilitarian Vessels and Forms</h3>
+
+### Other Late Roman Uitilitarian Vessels and Forms
 - [urn:kaa:kth/kth0901 Large Storage Vessel Handle w/Incised Palm]
 - [urn:kaa:kth/kth0127 Late Roman Bowl-Strainer]
 - [urn:kaa:kth/kth0151 Late Roman/Early Byzantine Jug]
@@ -350,10 +389,12 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth2793 Pithos]
 - [urn:kaa:kth/kth0690 Pithos]
 - [urn:kaa:kth/kth1153 Water Pipe]
-<h2>Later Vessels</h2>
+
+## Later Vessels
 - [urn:kaa:kth/kth2743 Middle Byzantine Painted-Ware Bowl]
 - [urn:kaa:kth/kth1620 Middle Byzantine Fine Sgraffito Ware Bowl]
-<h2>Uncategorized</h2>
+
+## Uncategorized
 - [urn:kaa:kth/kth0207 Late Roman/Early Byzantine Regional Lamp]
 - [urn:kaa:kth/kth0215 Roman Regional Cup]
 - [urn:kaa:kth/kth0458 Late Roman/Early Byzantine Regional Stewpot]
