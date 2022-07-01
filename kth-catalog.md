@@ -26,15 +26,11 @@
 - [urn:kaa:kth/kth0688  ARS Hayes Form 50]
 - [urn:kaa:kth/kth0632 ARS Hayes Form 50b]
 - [urn:kaa:kth/kth1224 ARS Hayes Form 50b]
-
 - [urn:kaa:kth/kth2673 ARS Hayes Form 67]
 - [urn:kaa:kth/kth1621 ARS Hayes Form 67]
-
 - [urn:kaa:kth/kth1011 ARS Hayes Form 68]
 - [urn:kaa:kth/kth2169 ARS Hayes Form 68]
-
 - [urn:kaa:kth/kth1598 ARS Bowl (perhaps associated with latest use of complex)]
-
 <h3>Regional(?) Tablewares</h3>
 - [urn:kaa:kth/kth2604 Roman Semifine Ware Bowl Rim]
 - [urn:kaa:kth/kth0974 Roman Semi-Slipped Bowl, Corinthian?]
@@ -42,7 +38,6 @@
 <h3>Aegean Thin-walled Vessels</h3>
 - [urn:kaa:kth/kth2579 Thin-Walled Ware Cup]
 - [urn:kaa:kth/kth2103 Cup/Jug (MR Aegean?)]
-
 <h3>Other ER - MR vessels</h3>
 - [urn:kaa:kth/kth2746 Trefoil-Mouth Jug]
 - [urn:kaa:kth/kth1131 Thin-Walled Ware Cup]
@@ -67,10 +62,8 @@
 - [urn:kaa:kth/kth0464 PRS Hayes Form 3]
 - [urn:kaa:kth/kth0466 PRS Hayes Form 3b]
 - [urn:kaa:kth/kth0521 PRS Hayes Form 3h]
-
 - [urn:kaa:kth/kth1120 PRS Hayes Form 3/10a]
 - [urn:kaa:kth/kth1120 PRS Hayes Form 3/10a]
-
 - [urn:kaa:kth/kth0996 PRS Hayes Form 10a]
 - [urn:kaa:kth/kth1024 PRS Hayes Form 10a]
 - [urn:kaa:kth/kth0739 PRS Hayes Form 10a]
@@ -88,7 +81,6 @@
 - [urn:kaa:kth/kth0048 PRS Hayes Form 10b]
 - [urn:kaa:kth/kth0003 PRS Hayes Form 10c]
 - [urn:kaa:kth/kth0450 PRS Hayes Form 10c]
-
 - [urn:kaa:kth/kth0511 Phocaean Red Slip]
 - [urn:kaa:kth/kth0512 Phocaean Red Slip]
 - [urn:kaa:kth/kth1079 PRS Dish]
@@ -100,7 +92,6 @@
 - [urn:kaa:kth/kth1628 ARS Hayes Form 99]
 - [urn:kaa:kth/kth1002 ARS Hayes Form 99c]
 - [urn:kaa:kth/kth1504 ARS Hayes Form 99c]
-
 - [urn:kaa:kth/kth0186 ARS Hayes Form 105]
 - [urn:kaa:kth/kth0185 ARS Hayes Form 105]
 - [urn:kaa:kth/kth0187 ARS Hayes Form 105]
@@ -123,11 +114,9 @@
 - [urn:kaa:kth/kth2133 ARS Hayes Form 105]
 - [urn:kaa:kth/kth2741 ARS Hayes Form 105]
 - [urn:kaa:kth/kth2782 ARS Plate]
-
 - [urn:kaa:kth/kth0461 ARS Hayes Form 109]
 - [urn:kaa:kth/kth0647 ARS Hayes Form 109]
 - [urn:kaa:kth/kth2054 ARS Hayes Form 109]
-
 - [urn:kaa:kth/kth2048 ARS Bowl/Plate]
 - [urn:kaa:kth/kth2473 ARS Bowl/Plate]
 - [urn:kaa:kth/kth2785 ARS Plate]
@@ -292,10 +281,8 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth0260 Late Roman Palestinian Frying Pan]
 - [urn:kaa:kth/kth0268 Late Roman Palestinian Strainer]
 - [urn:kaa:kth/kth1163 Palestinian Combed Jug]
-
 <h3>Vessels Associated with Glass Working</h3>
 - [urn:kaa:kth/kth1688 Crucible?]
-
 <h3>Jug with tall spout and rounded body<h3>
 - [urn:kaa:kth/kth0660 LR Cookpot]
 - [urn:kaa:kth/kth1416 Late Roman/Early Byzantine Jug]
@@ -366,7 +353,6 @@ While no complete vessel is preserved, the association between the rims listed h
 <h2>Later Vessels</h2>
 - [urn:kaa:kth/kth2743 Middle Byzantine Painted-Ware Bowl]
 - [urn:kaa:kth/kth1620 Middle Byzantine Fine Sgraffito Ware Bowl]
-
 <h2>Uncategorized</h2>
 - [urn:kaa:kth/kth0207 Late Roman/Early Byzantine Regional Lamp]
 - [urn:kaa:kth/kth0215 Roman Regional Cup]
