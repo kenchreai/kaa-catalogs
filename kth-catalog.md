@@ -85,7 +85,7 @@
 - [urn:kaa:kth/kth0512 Phocaean Red Slip]
 - [urn:kaa:kth/kth1079 PRS Dish]
 <h3>Athenian Painted Ware</h2>
-- [urn:kaa:kth/kth2779 Athenian Painted-Ware Platter or Bowl]
+- [urn:kaa:kth/kth2779 Athenian Painted Ware Platter or Bowl]
 - [urn:kaa:kth/kth2213 Athenian Imitation of ARS Hayes Form 61]
 <h3>African Red Slip</h3>
 - [urn:kaa:kth/kth2170 ARS Hayes Form 99]
