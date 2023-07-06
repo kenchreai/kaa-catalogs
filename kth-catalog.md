@@ -194,8 +194,6 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1917 Late Roman Amphora 2 Toe]
 - [urn:kaa:kth/kth2007 LRA2 Toe (“Micaceous variant”)]
 - [urn:kaa:kth/kth1974 LRA2 Toe (“Micaceous variant”)]
-
-### Late Roman Amphora 2: Other Fabrics
 - [urn:kaa:kth/kth1445 “Lightly Combed” Late Roman Amphora 2]
 - [urn:kaa:kth/kth1637 LRA2 in Coarse Fabric]
 - [urn:kaa:kth/kth1446 Late Roman Amphora 2]
@@ -221,6 +219,9 @@ While no complete vessel is preserved, the association between the rims listed h
 ### Late Roman Amphora 2: Body Sherds with <i>Dipinti</i>
 - [urn:kaa:kth/kth2621 Late Roman Amphora 2: sherd with dipinto]
 - [urn:kaa:kth/kth1740 Small Late Roman Amphora 2: sherd with dipinto]
+
+### Stoppers
+- [urn:kaa:kth/kth0423 Stopper]
 
 ### Samos Cistern Amphora
 - [urn:kaa:kth/kth1323 Samos Cistern Amphora]
