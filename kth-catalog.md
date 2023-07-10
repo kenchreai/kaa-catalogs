@@ -108,6 +108,7 @@ An emerging catalog.
 - [urn:kaa:kth/kth1628 ARS Hayes Form 99]
 - [urn:kaa:kth/kth1002 ARS Hayes Form 99c]
 - [urn:kaa:kth/kth1504 ARS Hayes Form 99c]
+- [urn:kaa:kth/kth2817 ARS Hayes Form 104c
 - [urn:kaa:kth/kth0186 ARS Hayes Form 105]
 - [urn:kaa:kth/kth0185 ARS Hayes Form 105]
 - [urn:kaa:kth/kth0187 ARS Hayes Form 105]
