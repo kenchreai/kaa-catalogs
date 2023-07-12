@@ -20,5 +20,12 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 -[urn:kaa:kth/kth0489 Middle Roman Amphora 4]
 
 ### Middle Roman Amphora 7
-
 -[urn:kaa:ke/ke2239 Middle Roman Amphoras 7]
+
+### Beirut 3 Amphora
+-[urn:kaa:kcp/kp054 Beirut 3 Amphora]
+
+### Utilitarian Vessels
+
+## Late Roman Funnels
+-[urn:kaa:kth/kth0180 Large Funnel]
