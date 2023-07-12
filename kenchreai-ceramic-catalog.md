@@ -30,7 +30,7 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 -[urn:kaa:kcp/kp054 Beirut 3 Amphora]
 
 ### Late Roman Amphora 1
--[urn:kaa:ke/ke/ke1529 Late Roman Amphora 1]
+-[urn:kaa:ke/ke1529 Late Roman Amphora 1]
 
 ### Late Roman Amphora 2
 -[urn:kaa:ke/ke2135 Late Roman Amphora 2]
