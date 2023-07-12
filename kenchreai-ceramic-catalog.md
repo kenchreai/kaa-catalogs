@@ -11,7 +11,6 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 ### Eastern Sigillata B
 - [urn:kaa:ke/ke2159 Hayes Form 60]
 
-
 ### Eastern Sigillata C
 - [urn:kaa:ke/ke2223 Hayes Form 3]
 - [urn:kaa:kcp/kp031 Hayes Form 3]
@@ -30,7 +29,7 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 ### Beirut 3 Amphora
 -[urn:kaa:kcp/kp054 Beirut 3 Amphora]
 
-### Utilitarian Vessels
+## Utilitarian Vessels
 
-## Late Roman Funnels
+### Late Roman Funnels
 -[urn:kaa:kth/kth0180 Large Funnel]
