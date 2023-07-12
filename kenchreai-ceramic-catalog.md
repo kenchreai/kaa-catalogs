@@ -1,4 +1,5 @@
 # Kenchreai Ceramic Catalog
+Sebastian Heath and Joseph L. Rife, Editors
 
 A catalog showing the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
 
