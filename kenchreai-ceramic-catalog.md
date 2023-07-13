@@ -5,6 +5,10 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 
 ## Roman and Late Roman Finewares
 
+## Italian Sigillata
+-[urn:kaa:ke/ke0518 Conspectus form 18.2]
+-[urn:kaa:ke/ke0519 Conspectus form 18/20]
+
 ### Eastern Sigillata A
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
@@ -15,6 +19,9 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 - [urn:kaa:ke/ke2223 Hayes Form 3]
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
 - [urn:kaa:kcp/kp1976-001 Hayes Form 3]
+
+### Pontic Sigillata
+-[urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
 
 ### African Red Slip
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
@@ -46,8 +53,12 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 -[urn:kaa:kth/kth1052 Late Roman Amphora 4]
 -[urn:kaa:kth/kth1117 Late Roman Amphora 4]
 
-### Late Roman Amphoroa 5
+### Late Roman Amphora 5
 -[urn:kaa:kth/kth0274 Late Roman Amphora 5]
+
+### Late Roman Amphora 6
+-[urn:kaa:kth/kth1093 Late Roman Amphora 6]
+-[urn:kaa:kth/kth1389 Late Roman Amphora 6]
 
 ## Utilitarian Vessels
 
