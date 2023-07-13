@@ -37,7 +37,17 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 -[urn:kaa:ke/ke2135 Late Roman Amphora 2]
 -[urn:kaa:kth/kth0442 Late Roman Amphora 2]
 
+### Late Roman Amphora 3
+-[urn:kaa:ke/ke2284 Late Roman Amphora 3]
+-[urn:kaa:kcp/kp1988-009 Late Roman Amphora 3]
 
+### Late Roman Amphora 4
+-[urn:kaa:kth/kth0991 Late Roman Amphora 4]
+-[urn:kaa:kth/kth1052 Late Roman Amphora 4]
+-[urn:kaa:kth/kth1117 Late Roman Amphora 4]
+
+### Late Roman Amphoroa 5
+-[urn:kaa:kth/kth0274 Late Roman Amphora 5]
 
 ## Utilitarian Vessels
 
