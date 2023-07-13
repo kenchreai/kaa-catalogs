@@ -14,6 +14,7 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 ### Eastern Sigillata C
 - [urn:kaa:ke/ke2223 Hayes Form 3]
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
+- [urn:kaa:kcp/kp1976-001 Hayes Form 3]
 
 ### African Red Slip
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
