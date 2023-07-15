@@ -50,6 +50,8 @@ See [all](http://kenchreai.org/kaa/typology/p-ors?more=true).
 ## Amphoras
 
 ### Middle Roman Amphora 4
+See [more](http://kenchreai.org/kaa/typology/p-ors?more=true) LRA4 entries in KAA. Description of LRA4 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16).
+
 - [urn:kaa:kth/kth0489 Middle Roman Amphora 4]
 
 ### Middle Roman Amphora 5
