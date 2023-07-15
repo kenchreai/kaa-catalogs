@@ -37,6 +37,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
 ### African Red Slip
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
+
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
 
 ## Amphoras
@@ -57,10 +58,12 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:ke/ke1529 Late Roman Amphora 1]
 
 ### Late Roman Amphora 2
+
 - [urn:kaa:ke/ke2135 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0442 Late Roman Amphora 2]
 
 ### Late Roman Amphora 3
+
 - [urn:kaa:ke/ke2284 Late Roman Amphora 3]
 - [urn:kaa:kcp/kp1988-009 Late Roman Amphora 3]
 
