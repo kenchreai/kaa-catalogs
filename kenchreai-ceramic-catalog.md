@@ -3,7 +3,7 @@ Sebastian Heath and Joseph L. Rife, Editors
 
 A catalog illustrating the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
 
-This work is being actively edited and includes information that will be updated. Clicking on the title for each item will show the full record from the [Kenchreai Archaeology Archive][http://kenchreai.org/kaa] (KAA).
+This work is being actively edited and includes information that will be updated. Clicking on the title for each item will show the full record from the [Kenchreai Archaeology Archive](http://kenchreai.org/kaa) (KAA).
 
 ## Roman and Late Roman Finewares
 
