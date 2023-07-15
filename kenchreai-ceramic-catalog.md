@@ -41,7 +41,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
 
 ### Phocaean Red Slip
-See [all](http://kenchreai.org/kaa/typology/p-ors?more=true).
+See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
@@ -50,11 +50,12 @@ See [all](http://kenchreai.org/kaa/typology/p-ors?more=true).
 ## Amphoras
 
 ### Middle Roman Amphora 4
-See [more](http://kenchreai.org/kaa/typology/p-ors?more=true) LRA4 entries in KAA. Description of LRA4 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16).
 
 - [urn:kaa:kth/kth0489 Middle Roman Amphora 4]
 
 ### Middle Roman Amphora 5
+See [more](http://kenchreai.org/kaa/typology/p-mra-5) MRA5 entries in KAA. Description of MRA5 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=255).
+
 - [urn:kaa:kth/kth1332 Middle Roman Amphora 5]
 
 ### Middle Roman Amphora 7
@@ -77,6 +78,7 @@ See [more](http://kenchreai.org/kaa/typology/p-ors?more=true) LRA4 entries in KA
 - [urn:kaa:kcp/kp1988-009 Late Roman Amphora 3]
 
 ### Late Roman Amphora 4
+See [more](http://kenchreai.org/kaa/typology/p-lra-4) LRA4 entries in KAA. Description of LRA4 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16).
 
 - [urn:kaa:kth/kth0991 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1052 Late Roman Amphora 4]
