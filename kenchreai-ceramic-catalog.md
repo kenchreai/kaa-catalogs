@@ -43,7 +43,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 ### Phocaean Red Slip
 See [all](http://kenchreai.org/kaa/typology/p-ors?more=true).
 
-- [urn:kaa:ke/ke2161ke/ke2231 Hayes Form 1]
+- [urn:kaa:ke/ke2231 Hayes Form 1]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
 - [urn:kaa:kth/kth1024 Hayes Form 10A]
 
