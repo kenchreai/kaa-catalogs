@@ -1,7 +1,9 @@
 # Kenchreai Ceramic Catalog
 Sebastian Heath and Joseph L. Rife, Editors
 
-A catalog showing the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
+A catalog illustrating the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
+
+This work is being actively edited and includes information that will be updated. Clicking on the title for each item will show the full record from the [Kenchreai Archaeology Archive][http://kenchreai.org/kaa] (KAA).
 
 ## Roman and Late Roman Finewares
 
@@ -31,8 +33,11 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 ### Middle Roman Amphora 4
 -[urn:kaa:kth/kth0489 Middle Roman Amphora 4]
 
+### Middle Roman Amphora 5
+-[urn:kaa:kth/kth1332 Middle Roman Amphora 5]
+
 ### Middle Roman Amphora 7
--[urn:kaa:ke/ke2239 Middle Roman Amphoras 7]
+-[urn:kaa:ke/ke2239 Middle Roman Amphora 7]
 
 ### Beirut 3 Amphora
 -[urn:kaa:kcp/kp054 Beirut 3 Amphora]
@@ -64,3 +69,7 @@ A catalog showing the range of pottery and other ceramic objects at Kenchreai in
 
 ### Late Roman Funnels
 -[urn:kaa:kth/kth0180 Large Funnel]
+
+
+# Acknowledgements
+This catalof is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawies, Joseph Rife, Alicia Walsh, and others.
