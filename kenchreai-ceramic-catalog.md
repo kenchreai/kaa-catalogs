@@ -3,7 +3,7 @@ Sebastian Heath and Joseph L. Rife, Editors
 
 A catalog illustrating the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
 
-This work is being actively edited and includes information that will be updated. Clicking on the title for each item will show the full record from the [Kenchreai Archaeology Archive](http://kenchreai.org/kaa) (KAA).
+This work is being actively edited and includes information that will be updated. Clicking on the title for each item will show the full record from the [Kenchreai Archaeology Archive](http://kenchreai.org/kaa) (KAA). See [below](#acknowledgements) for acknowledgements.
 
 ## Roman and Late Roman Finewares
 
@@ -99,4 +99,4 @@ See [more](http://kenchreai.org/kaa/typology/p-lra-4) LRA4 entries in KAA. Descr
 
 
 # Acknowledgements
-This catalog is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawies, Joseph Rife, Alicia Walsh, and others. The editors also thank all the staff and students who have contributed to the project.
+<a id="acknowledgements"/>This catalog is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawies, Joseph Rife, Alicia Walsh, and others. The editors also thank all the staff and students who have contributed to the project.
