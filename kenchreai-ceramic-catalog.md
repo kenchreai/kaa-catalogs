@@ -8,10 +8,14 @@ This work is being actively edited and includes information that will be updated
 ## Roman and Late Roman Finewares
 
 ## Italian Sigillata
+See [all](http://kenchreai.org/kaa/typology/p-sig-it).
+
 -[urn:kaa:ke/ke0518 Conspectus form 18.2]
 -[urn:kaa:ke/ke0519 Conspectus form 18/20]
 
 ### Eastern Sigillata A
+See [all](http://kenchreai.org/kaa/typology/p-esa).
+
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
 ### Eastern Sigillata B
