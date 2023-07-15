@@ -8,28 +8,34 @@ This work is being actively edited and includes information that will be updated
 ## Roman and Late Roman Finewares
 
 ## Italian Sigillata
-See [all](http://kenchreai.org/kaa/typology/p-sig-it).
+See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 
 -[urn:kaa:ke/ke0518 Conspectus form 18.2]
 -[urn:kaa:ke/ke0519 Conspectus form 18/20]
 
 ### Eastern Sigillata A
-See [all](http://kenchreai.org/kaa/typology/p-esa).
+See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
 ### Eastern Sigillata B
+See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
+
 - [urn:kaa:ke/ke2159 Hayes Form 60]
 
 ### Eastern Sigillata C
+See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
+
 - [urn:kaa:ke/ke2223 Hayes Form 3]
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
 - [urn:kaa:kcp/kp1976-001 Hayes Form 3]
 
 ### Pontic Sigillata
+See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 -[urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
 
 ### African Red Slip
+See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
 
 ## Amphoras
