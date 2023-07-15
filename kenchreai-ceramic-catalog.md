@@ -32,6 +32,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
 ### Pontic Sigillata
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
+
 -[urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
 
 ### African Red Slip
