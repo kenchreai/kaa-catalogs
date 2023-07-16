@@ -33,14 +33,15 @@ See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 ### Pontic Sigillata
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
--[urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
+- [urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
 
-### African Red Slip
+### African Red Slip<a id="p-ars"></a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
+- [urn:kaa:ke/ke1246 Hayes Form 105]
 
-### Phocaean Red Slip
+### Phocaean Red Slip<a id="p-prs"></a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
