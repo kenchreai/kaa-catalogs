@@ -13,17 +13,17 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 -[urn:kaa:ke/ke0518 Conspectus form 18.2]
 -[urn:kaa:ke/ke0519 Conspectus form 18/20]
 
-### Eastern Sigillata A
+### Eastern Sigillata A<a id="#p-esa"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
-### Eastern Sigillata B
+### Eastern Sigillata B<a id="#p-esb"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 
 - [urn:kaa:ke/ke2159 Hayes Form 60]
 
-### Eastern Sigillata C
+### Eastern Sigillata C<a id="#p-esc"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
 - [urn:kaa:ke/ke2223 Hayes Form 3]
