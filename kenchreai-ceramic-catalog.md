@@ -16,6 +16,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 ### Eastern Sigillata A<a id="#p-esa"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
+- [urn:kaa:ke/ke2074 Hayes Form 22b]
 - [urn:kaa:ke/ke2028 Hayes Form 47]
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
