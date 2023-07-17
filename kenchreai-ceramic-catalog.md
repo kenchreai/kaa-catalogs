@@ -53,6 +53,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:kcp/kp1956-021 Hayes Form 8a]
+- [urn:kaa:kth/kth1621 Hayes Form 67]
 - [urn:kaa:ke/ke0788 Hayes Form 99c]
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
 - [urn:kaa:ke/ke1246 Hayes Form 105]
