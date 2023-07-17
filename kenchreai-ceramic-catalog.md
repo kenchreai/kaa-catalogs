@@ -12,8 +12,9 @@ All measurements are in meters unless otherwise specified.
 ### Italian Sigillata<a id="#p-sig-it"></a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 
--[urn:kaa:ke/ke0518 Conspectus form 18.2]
--[urn:kaa:ke/ke0519 Conspectus form 18/20]
+- [urn:kaa:ke/ke1328 Conspectus form 4.4]
+- [urn:kaa:ke/ke0518 Conspectus form 18.2]
+- [urn:kaa:ke/ke0519 Conspectus form 18/20]
 
 ### Eastern Sigillata A<a id="#p-esa"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
