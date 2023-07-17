@@ -49,7 +49,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 - [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
 - [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
 
-### African Red Slip<a id="p-ars" href="#p-ars">🔗</a>
+### African Red Slip <a id="p-ars" href="#p-ars" style="font-size:smaller">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:kcp/kp1956-021 Hayes Form 8a]
