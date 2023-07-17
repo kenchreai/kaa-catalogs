@@ -58,6 +58,10 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke0474 Athenian Red-Slip Imitation of ARS Hayes 61]
 
+### Athenian Late Roman Painted Ware
+
+- [urn:kaa:ke/ke1282 Athenian Late Roman Painted Ware Bowl]
+
 ### Athenian Late Roman Gouged Ware
 
 - [urn:kaa:ke/ke2126 Athenian Late Roman Gouged Ware Jug]
