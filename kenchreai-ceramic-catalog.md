@@ -9,26 +9,26 @@ All measurements are in meters unless otherwise specified.
 
 ## Roman and Late Roman Finewares
 
-### Italian Sigillata<a id="#p-sig-it"></a>
+### Italian Sigillata<a id="p-sig-it"></a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 
 - [urn:kaa:ke/ke1328 Conspectus form 4.4]
 - [urn:kaa:ke/ke0518 Conspectus form 18.2]
 - [urn:kaa:ke/ke0519 Conspectus form 18/20]
 
-### Eastern Sigillata A<a id="#p-esa"></a>
+### Eastern Sigillata A<a id="p-esa"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
 - [urn:kaa:ke/ke2074 Hayes Form 22b]
 - [urn:kaa:ke/ke2028 Hayes Form 47]
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
-### Eastern Sigillata B<a id="#p-esb"></a>
+### Eastern Sigillata B<a id="p-esb"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 
 - [urn:kaa:ke/ke2159 Hayes Form 60]
 
-### Eastern Sigillata C<a id="#p-esc"></a>
+### Eastern Sigillata C<a id="p-esc"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
 - [urn:kaa:ke/ke2165 Hayes Form 1]
@@ -36,7 +36,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
 - [urn:kaa:kcp/kp1976-001 Hayes Form 3]
 
-### Pontic Sigillata
+### Pontic Sigillata<a id="p-sig-pontic"></a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
 - [urn:kaa:kcp/kp091 Zhuravlev Form 1]
@@ -49,7 +49,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 - [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
 - [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
 
-### African Red Slip<a id="p-ars"></a>
+### African Red Slip<a id="p-ars" href="#p-ars">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:kcp/kp1956-021 Hayes Form 8a]
