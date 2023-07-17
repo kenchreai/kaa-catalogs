@@ -57,6 +57,12 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke0474 Athenian Red-Slip Imitation of ARS Hayes 61]
 
+### Athenian Late Roman Gouged Ware
+
+- [urn:kaa:ke/ke2126 Athenian Late Roman Gouged Ware Jug]
+- [urn:kaa:kcp/kp1976-010 Athenian Late Roman Gouged Ware Jug]
+- [urn:kaa:kcp/kp1976-006 Athenian Late Roman Gouged Ware Jug]
+
 ## Amphoras
 
 ### Middle Roman Amphora 4
