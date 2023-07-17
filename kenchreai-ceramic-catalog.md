@@ -41,6 +41,11 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
 - [urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
 
+### Cypriot Sigillata
+
+- [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
+- [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
+
 ### African Red Slip<a id="p-ars"></a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
