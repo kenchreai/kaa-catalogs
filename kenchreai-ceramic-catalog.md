@@ -5,6 +5,8 @@ A catalog illustrating the range of pottery and other ceramic objects at Kenchre
 
 The content here is being actively edited and includes information that will be updated. Clicking on the title for each item will show the full record from the [Kenchreai Archaeology Archive](http://kenchreai.org/kaa) (KAA). See [below](#acknowledgements) for acknowledgements.
 
+All measurements are in meters unless otherwise specified.
+
 ## Roman and Late Roman Finewares
 
 ## Italian Sigillata<a id="#p-sig-it"></a>
