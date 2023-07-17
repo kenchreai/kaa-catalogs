@@ -9,7 +9,7 @@ All measurements are in meters unless otherwise specified.
 
 ## Roman and Late Roman Finewares
 
-## Italian Sigillata<a id="#p-sig-it"></a>
+### Italian Sigillata<a id="#p-sig-it"></a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 
 -[urn:kaa:ke/ke0518 Conspectus form 18.2]
