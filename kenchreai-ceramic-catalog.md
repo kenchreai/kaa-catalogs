@@ -52,6 +52,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 ### African Red Slip<a id="p-ars"></a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
+- [urn:kaa:kcp/kp1956-021 Hayes Form 8a]
 - [urn:kaa:ke/ke0788 Hayes Form 99c]
 - [urn:kaa:ke/ke1247 Hayes Form 104c]
 - [urn:kaa:ke/ke1246 Hayes Form 105]
@@ -61,7 +62,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
-- [urn:kaa:kth/kth1024 Hayes Form 10A]
+- [urn:kaa:kth/kth1024 Hayes Form 10a]
 
 ### Athenian Late Roman Red Slip
 
