@@ -64,6 +64,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
+- [urn:kaa:kcp/kp1956-020 Hayes Form 3 Base with Stamp]
 - [urn:kaa:kth/kth1024 Hayes Form 10a]
 
 ### Athenian Late Roman Red Slip
