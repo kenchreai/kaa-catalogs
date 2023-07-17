@@ -53,6 +53,10 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:ke/ke2161 Hayes Form 3]
 - [urn:kaa:kth/kth1024 Hayes Form 10A]
 
+### Athenian Late Roman Red Slip
+
+- [urn:kaa:ke/ke0474 Athenian Red-Slip Imitation of ARS Hayes 61]
+
 ## Amphoras
 
 ### Middle Roman Amphora 4
