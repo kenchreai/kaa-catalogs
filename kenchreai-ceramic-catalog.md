@@ -39,7 +39,10 @@ See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 ### Pontic Sigillata
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
+- [urn:kaa:kcp/kp091 Zhuravlev Form 1]
 - [urn:kaa:kth/kth2469 Pontic Sigillata Hayes Form 3]
+- [urn:kaa:kcp/kp050 Pontic Sigillata Hayes Form 3/Zhuravlev Form 6.3]
+- [urn:kaa:kcp/kp1969-005 Zhuravlev Form 24]
 
 ### Cypriot Sigillata
 
