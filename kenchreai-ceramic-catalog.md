@@ -9,7 +9,7 @@ All measurements are in meters unless otherwise specified.
 
 ## Roman and Late Roman Finewares
 
-### Italian Sigillata<a id="p-sig-it"></a>
+### Italian Sigillata <a id="p-sig-it" href="#p-sig-it" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 
 - [urn:kaa:ke/ke1328 Conspectus form 4.4]
@@ -17,14 +17,14 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 - [urn:kaa:ke/ke0519 Conspectus form 18/20]
 - [urn:kaa:ke/ke1392 Stemmed Cup (Conspectus R 9.2)]
 
-### Eastern Sigillata A <a id="p-esa"></a>
+### Eastern Sigillata A <a id="p-esa" href="#p-esa" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
 - [urn:kaa:ke/ke2074 Hayes Form 22b]
 - [urn:kaa:ke/ke2028 Hayes Form 47]
 - [urn:kaa:ke/ke1494 Hayes Form 50]
 
-### Eastern Sigillata B<a id="p-esb"></a>
+### Eastern Sigillata B <a id="p-esb" href="#p-esb" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 
 - [urn:kaa:ke/ke2159 Hayes Form 60]
@@ -32,7 +32,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 - [urn:kaa:kcp/kp1989-019 Hayes Form 75]
 - [urn:kaa:kcp/kp1989-045 Hayes Form 80]
 
-### Eastern Sigillata C<a id="p-esc"></a>
+### Eastern Sigillata C <a id="p-esc" href="#p-esc" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
 - [urn:kaa:ke/ke2165 Hayes Form 1]
@@ -40,7 +40,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
 - [urn:kaa:kcp/kp1976-001 Hayes Form 3]
 
-### Pontic Sigillata <a id="p-sig-pontic"></a>
+### Pontic Sigillata <a id="p-sig-pontic" href="#p-pontic-sig" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
 - [urn:kaa:kcp/kp091 Zhuravlev Form 1]
@@ -48,7 +48,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 - [urn:kaa:kcp/kp050 Pontic Sigillata Hayes Form 3/Zhuravlev Form 6.3]
 - [urn:kaa:kcp/kp1969-005 Zhuravlev Form 24]
 
-### Cypriot Sigillata
+### Cypriot Sigillata <a id="p-sig-cyp" href="#p-sig-cyp" style="font-size:.5em">🔗</a>
 
 - [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
 - [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
@@ -63,7 +63,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:ke/ke1246 Hayes Form 105]
 - [urn:kaa:kth/kth0461 Hayes Form 109]
 
-### Phocaean Red Slip<a id="p-prs"></a>
+### Phocaean Red Slip <a id="p-prs" href="#p-prs" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]

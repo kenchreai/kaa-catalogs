@@ -9,21 +9,20 @@ A developing catalog.
 ## Early to Middle Roman Types
 
 ### Eastern Sigillata A
-- [urn:kaa:kth/kth2727 ESA Plate]
-- [urn:kaa:kth/kth2255 ESA Hayes Form 42]
-- [urn:kaa:kth/kth2052 ESA Hayes Form 46]
+- [urn:kaa:kth/kth2727 Plate]
+- [urn:kaa:kth/kth2255 Hayes Form 42]
+- [urn:kaa:kth/kth2052 Hayes Form 46]
 - [urn:kaa:kth/kth1994 ESA Plate]
 
 ### Eastern Sigillata B
 - [urn:kaa:kth/kth0203 Hayes Form 58]
 - [urn:kaa:kth/kth2341 Hayes Form 60]
-- [urn:kaa:kcp/kp1989-019 Hayes Form 75]
 - [urn:kaa:kth/kth2726 ESB Bowl]
 
 ### Eastern Sigillata C
-- [urn:kaa:kth/kth0987 ESC Hayes Form 3]
-- [urn:kaa:kth/kth2510 ESC Hayes Form 4]
-- [urn:kaa:kth/kth2265 ESC Plate with Stamp]
+- [urn:kaa:kth/kth0987 Hayes Form 3]
+- [urn:kaa:kth/kth2510 Hayes Form 4]
+- [urn:kaa:kth/kth2265 Plate with Stamp]
 
 ### Pontic Sigillata
 - [urn:kaa:kth/kth1436 Pontic Sigillata Zhuravlev Form 2]
