@@ -106,6 +106,7 @@ See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true).
 See [more](http://kenchreai.org/kaa/typology/p-mra-5) MRA5 entries in KAA. Description of MRA5 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=255).
 
 - [urn:kaa:kth/kth1332 Middle Roman Amphora 5]
+- [urn:kaa:kth/kth0669 MRA 5 Handle]
 
 ### Middle Roman Amphora 7 <a id="p-mra-7" href="#p-mra-7" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA5 entries in KAA. Description of MRA5 (= Kapitän 2 & Niederbieber 77) from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/pictures.cfm?id=154).
@@ -113,6 +114,7 @@ See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA5 entries in KAA. Descr
 - [urn:kaa:ke/ke2239 Middle Roman Amphora 7]
 - [urn:kaa:ke/ke2183 Middle Roman Amphora 7]
 - [urn:kaa:kth/kth2065 MRA 7 Handle]
+- [urn:kaa:kth/kth1278 MRA 7 Hollow Base]
 
 ### Beirut 3 Amphora <a id="p-amphora-beirut-3" href="#p-amphora-beirut-3" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-3) Beirut 3 entries in KAA. Description of Beirut 8 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=38).
