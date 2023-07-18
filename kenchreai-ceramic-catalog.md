@@ -125,31 +125,37 @@ See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entrie
 - [urn:kaa:kth/kth1567 Beirut 8 Amphora]
 - [urn:kaa:kth/kth2368  Beirut 8 Amphora]
 
-### Late Roman Amphora 1
+### Late Roman Amphora 1 <a id="p-lra-1" href="#p-lra-1" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-lra-1).
 
 - [urn:kaa:ke/ke1529 Late Roman Amphora 1]
 
-### Late Roman Amphora 2
+### Late Roman Amphora 2 <a id="p-lra-2" href="#p-lra-2" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-lra-2).
 
 - [urn:kaa:ke/ke2135 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0442 Late Roman Amphora 2]
 
-### Late Roman Amphora 3
+### Late Roman Amphora 3 <a id="p-lra-3" href="#p-lra-3" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-lra-3).
 
 - [urn:kaa:ke/ke2284 Late Roman Amphora 3]
 - [urn:kaa:kcp/kp1988-009 Late Roman Amphora 3]
 
-### Late Roman Amphora 4
+### Late Roman Amphora 4 <a id="p-lra-4" href="#p-lra-4" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-lra-4) LRA4 entries in KAA. Description of LRA4 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16).
 
 - [urn:kaa:kth/kth0991 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1052 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1117 Late Roman Amphora 4]
 
-### Late Roman Amphora 5
+### Late Roman Amphora 5 <a id="p-lra-5" href="#p-lra-5" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-lra-5).
+
 - [urn:kaa:kth/kth0274 Late Roman Amphora 5]
 
-### Late Roman Amphora 6
+### Late Roman Amphora 6 <a id="p-lra-6" href="#p-lra-6" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 
 - [urn:kaa:kth/kth1093 Late Roman Amphora 6]
 - [urn:kaa:kth/kth1389 Late Roman Amphora 6]
