@@ -15,8 +15,9 @@ A developing catalog.
 - [urn:kaa:kth/kth1994 ESA Plate]
 
 ### Eastern Sigillata B
-- [urn:kaa:kth/kth0203 Eastern Sigillata B Hayes Form 58]
-- [urn:kaa:kth/kth2341 ESB Hayes Form 60]
+- [urn:kaa:kth/kth0203 Hayes Form 58]
+- [urn:kaa:kth/kth2341 Hayes Form 60]
+- [urn:kaa:kcp/kp1989-019 Hayes Form 75]
 - [urn:kaa:kth/kth2726 ESB Bowl]
 
 ### Eastern Sigillata C

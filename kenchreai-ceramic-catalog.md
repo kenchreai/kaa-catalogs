@@ -17,7 +17,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 - [urn:kaa:ke/ke0519 Conspectus form 18/20]
 - [urn:kaa:ke/ke1392 Stemmed Cup (Conspectus R 9.2)]
 
-### Eastern Sigillata A<a id="p-esa"></a>
+### Eastern Sigillata A <a id="p-esa"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
 - [urn:kaa:ke/ke2074 Hayes Form 22b]
@@ -28,6 +28,9 @@ See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 
 - [urn:kaa:ke/ke2159 Hayes Form 60]
+- [urn:kaa:kcp/kp1990-001 Hayes Form 60]
+- [urn:kaa:kcp/kp1989-019 Hayes Form 75]
+- [urn:kaa:kcp/kp1989-045 Hayes Form 80]
 
 ### Eastern Sigillata C<a id="p-esc"></a>
 See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
@@ -37,7 +40,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
 - [urn:kaa:kcp/kp1976-001 Hayes Form 3]
 
-### Pontic Sigillata<a id="p-sig-pontic"></a>
+### Pontic Sigillata <a id="p-sig-pontic"></a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 
 - [urn:kaa:kcp/kp091 Zhuravlev Form 1]
@@ -50,7 +53,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 - [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
 - [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
 
-### African Red Slip <a id="p-ars" href="#p-ars" style="font-size:smaller">🔗</a>
+### African Red Slip <a id="p-ars" href="#p-ars" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
 - [urn:kaa:kcp/kp1956-021 Hayes Form 8a]
