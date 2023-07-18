@@ -96,26 +96,37 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 
 ## Amphoras
 
-### Middle Roman Amphora 4
+### Middle Roman Amphora 4 <a id="p-mra-4" href="#p-mra-4" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true).
 
+- [urn:kaa:kcp/kp1989-009 Middle Roman Amphora 4]
 - [urn:kaa:kth/kth0489 Middle Roman Amphora 4]
 
-### Middle Roman Amphora 5
+### Middle Roman Amphora 5 <a id="p-mra-5" href="#p-mra-5" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-mra-5) MRA5 entries in KAA. Description of MRA5 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=255).
 
 - [urn:kaa:kth/kth1332 Middle Roman Amphora 5]
 
-### Middle Roman Amphora 7
+### Middle Roman Amphora 7 <a id="p-mra-7" href="#p-mra-7" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA5 entries in KAA. Description of MRA5 (= Kapitän 2 & Niederbieber 77) from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/pictures.cfm?id=154).
 
 - [urn:kaa:ke/ke2239 Middle Roman Amphora 7]
 - [urn:kaa:ke/ke2183 Middle Roman Amphora 7]
 - [urn:kaa:kth/kth2065 MRA 7 Handle]
 
-### Beirut 3 Amphora
+### Beirut 3 Amphora <a id="p-amphora-beirut-3" href="#p-amphora-beirut-3" style="font-size:.5em">🔗</a>
+See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-3) Beirut 3 entries in KAA. Description of Beirut 8 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=38).
+
 - [urn:kaa:kcp/kp054 Beirut 3 Amphora]
 
+### Beirut 8 Amphora <a id="p-amphora-beirut-8" href="#p-amphora-beirut-8" style="font-size:.5em">🔗</a>
+See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entries in KAA. Description of Beirut 8 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=39).
+
+- [urn:kaa:kth/kth1567 Beirut 8 Amphora]
+- [urn:kaa:kth/kth2368  Beirut 8 Amphora]
+
 ### Late Roman Amphora 1
+
 - [urn:kaa:ke/ke1529 Late Roman Amphora 1]
 
 ### Late Roman Amphora 2
