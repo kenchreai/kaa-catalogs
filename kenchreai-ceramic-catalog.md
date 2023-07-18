@@ -71,15 +71,19 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:kcp/kp1956-020 Hayes Form 3 Base with Stamp]
 - [urn:kaa:kth/kth1024 Hayes Form 10a]
 
-### Athenian Late Roman Red Slip
+### Athenian Late Roman Red Slip <a id="p-athenian-red-slip" href="#p-athenian-red-slip" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-athenian-red-slip?more=true).
 
 - [urn:kaa:ke/ke0474 Athenian Red-Slip Imitation of ARS Hayes 61]
 
-### Athenian Late Roman Painted Ware
+### Athenian Late Roman Painted Ware <a id="p-athenian-painted" href="#p-athenian-painted" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-athenian-painted?more=true).
 
 - [urn:kaa:ke/ke1282 Athenian Late Roman Painted Ware Bowl]
+- [urn:kaa:ke/1395 Athenian Late Roman Painted Ware Keel-Rim Bowl]
 
-### Athenian Late Roman Gouged Ware
+### Athenian Late Roman Gouged Ware <a id="p-athenian-gouged" href="#p-athenian-gouged" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 
 - [urn:kaa:ke/ke2126 Athenian Late Roman Gouged Ware Jug]
 - [urn:kaa:kcp/kp1976-010 Athenian Late Roman Gouged Ware Jug]
@@ -97,7 +101,11 @@ See [more](http://kenchreai.org/kaa/typology/p-mra-5) MRA5 entries in KAA. Descr
 - [urn:kaa:kth/kth1332 Middle Roman Amphora 5]
 
 ### Middle Roman Amphora 7
+See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA5 entries in KAA. Description of MRA5 (= Kapitän 2 & Niederbieber 77) from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/pictures.cfm?id=154).
+
 - [urn:kaa:ke/ke2239 Middle Roman Amphora 7]
+- [urn:kaa:ke/ke2183 Middle Roman Amphora 7]
+- [urn:kaa:kth/kth2065 MRA 7 Handle]
 
 ### Beirut 3 Amphora
 - [urn:kaa:kcp/kp054 Beirut 3 Amphora]
