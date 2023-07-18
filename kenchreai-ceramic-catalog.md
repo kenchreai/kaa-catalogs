@@ -80,7 +80,7 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-red-slip?more=true).
 See [all](http://kenchreai.org/kaa/typology/p-athenian-painted?more=true).
 
 - [urn:kaa:ke/ke1282 Athenian Late Roman Painted Ware Bowl]
-- [urn:kaa:ke/1395 Athenian Late Roman Painted Ware Keel-Rim Bowl]
+- [urn:kaa:ke/ke1395 Athenian Late Roman Painted Ware Keel-Rim Bowl]
 
 ### Athenian Late Roman Gouged Ware <a id="p-athenian-gouged" href="#p-athenian-gouged" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
