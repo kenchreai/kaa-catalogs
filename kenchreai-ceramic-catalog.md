@@ -35,10 +35,15 @@ See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 ### Eastern Sigillata C <a id="p-esc" href="#p-esc" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
+- [urn:kaa:kcp/kp026 Loeschcke 26a]
 - [urn:kaa:ke/ke2165 Hayes Form 1]
+- [urn:kaa:ke/ke0670 Hayes Form 1]
+- [urn:kaa:kcp/kp1988-008 Hayes From 2]
+- [urn:kaa:kcp/kp1990-029 Hayes From 2]
 - [urn:kaa:ke/ke2223 Hayes Form 3]
 - [urn:kaa:kcp/kp1995-003 Hayes Form 3]
 - [urn:kaa:kcp/kp1976-001 Hayes Form 3]
+- [urn:kaa:kth/kth2510 Hayes Form 4]
 
 ### Pontic Sigillata <a id="p-sig-pontic" href="#p-pontic-sig" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
