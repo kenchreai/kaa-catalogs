@@ -170,7 +170,7 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 ### Late Roman Funnels
 - [urn:kaa:kth/kth0180 Large Funnel]
 
-### Kenchreai Ceramic Publications
+## Selected Kenchreai Ceramic Publications
 
 - Adamsheck, Bevereley. 1979. *Kenchreai IV: Kenchreai, Eastern Port of Corinth: The Pottery.* Leiden: Brill.
 - Heath, Sebastian, Joseph L. Rife, Jorge Bravo III, and Gavin Blasdel. 2015. “Preliminary Report on Early Byzantine Pottery from a Building Complex at Kenchreai (Greece).” *ISAW Papers* 10. [http://hdl.handle.net/2333.1/q83bk6k7](http://hdl.handle.net/2333.1/q83bk6k7).
