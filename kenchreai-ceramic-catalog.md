@@ -54,6 +54,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-pontic?more=true).
 - [urn:kaa:kcp/kp1969-005 Zhuravlev Form 24]
 
 ### Cypriot Sigillata <a id="p-sig-cyp" href="#p-sig-cyp" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-sig-cyp?more=true).
 
 - [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
 - [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
@@ -137,6 +138,7 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-2).
 
 - [urn:kaa:ke/ke2135 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0442 Late Roman Amphora 2]
+- [urn:kaa:kth/kth1445 Late Roman Amphora 2]
 
 ### Late Roman Amphora 3 <a id="p-lra-3" href="#p-lra-3" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-lra-3).
