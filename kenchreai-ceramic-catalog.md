@@ -97,6 +97,14 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 
 ## Amphoras
 
+### Corinthian A Amphora
+
+- [urn:kaa:ke/ke2403 Corinthian A Amphora]
+
+### Forlimpopoli Amphora
+
+- [urn:kaa:kth/kth0644 Forlimpopoli Amphora]
+
 ### Middle Roman Amphora 4 <a id="p-mra-4" href="#p-mra-4" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true).
 
@@ -117,6 +125,14 @@ See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA 7 entries in KAA. Desc
 - [urn:kaa:kth/kth2065 MRA 7 Handle]
 - [urn:kaa:kth/kth1278 MRA 7 Hollow Base]
 
+### Dressel 24 Amphora
+
+- [urn:kaa:kth/kth2804 Dressel 24 Amphora]
+
+### Keay 52 Italian Amphora
+
+- [urn:kaa:ke/ke1778 Keay 52 Amphora]
+
 ### Beirut 3 Amphora <a id="p-amphora-beirut-3" href="#p-amphora-beirut-3" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-3) Beirut 3 entries in KAA. Description of Beirut 8 from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=38).
 
@@ -126,7 +142,19 @@ See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-3) Beirut 3 entrie
 See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entries in KAA. Description of Beirut 8 from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=39).
 
 - [urn:kaa:kth/kth1567 Beirut 8 Amphora]
-- [urn:kaa:kth/kth2368  Beirut 8 Amphora]
+- [urn:kaa:kth/kth2368 Beirut 8 Amphora]
+
+### North African Keay 25
+
+- [urn:kaa:kth/kth1648 Keay 25 Amphora]
+
+### North African Keath 61/62
+
+- [urn:kaa:kth/kth1685 Keay 61/62 Type Base]
+
+### North African Spatheion
+
+- [urn:kaa:kth/kth0002 North African Spatheion]
 
 ### Late Roman Amphora 1 <a id="p-lra-1" href="#p-lra-1" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-lra-1).
@@ -145,6 +173,7 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-3).
 
 - [urn:kaa:ke/ke2284 Late Roman Amphora 3]
 - [urn:kaa:kcp/kp1988-009 Late Roman Amphora 3]
+- [urn:kaa:ke/ke2284 Late Roman Amphora 3]
 
 ### Late Roman Amphora 4 <a id="p-lra-4" href="#p-lra-4" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-lra-4) LRA4 entries in KAA. Description of LRA4 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16).
@@ -175,8 +204,6 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 - Adamsheck, Bevereley. 1979. *Kenchreai IV: Kenchreai, Eastern Port of Corinth: The Pottery.* Leiden: Brill.
 - Heath, Sebastian, Joseph L. Rife, Jorge Bravo III, and Gavin Blasdel. 2015. “Preliminary Report on Early Byzantine Pottery from a Building Complex at Kenchreai (Greece).” *ISAW Papers* 10. [http://hdl.handle.net/2333.1/q83bk6k7](http://hdl.handle.net/2333.1/q83bk6k7).
 - Elena Korka and Joseph L. Rife, eds. 2022. *On the Edge of a Roman Port: Excavations at Koutsongila, Kenchreai, 2007-2014.* Princeton: American School of Classical Studies. (With extensive ceramic catalogs.)
-
-
 
 # Acknowledgements
 <a id="acknowledgements"></a>This catalog is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawies, Joseph Rife, Alicia Walsh, and others. The editors also thank all the staff and students who have contributed to the project.
