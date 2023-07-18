@@ -104,13 +104,13 @@ See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true).
 - [urn:kaa:kth/kth0489 Middle Roman Amphora 4]
 
 ### Middle Roman Amphora 5 <a id="p-mra-5" href="#p-mra-5" style="font-size:.5em">🔗</a>
-See [more](http://kenchreai.org/kaa/typology/p-mra-5) MRA5 entries in KAA. Description of MRA5 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=255).
+See [more](http://kenchreai.org/kaa/typology/p-mra-5) MRA 5 entries in KAA. Description of MRA 5 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=255).
 
 - [urn:kaa:kth/kth1332 Middle Roman Amphora 5]
 - [urn:kaa:kth/kth0669 MRA 5 Handle]
 
 ### Middle Roman Amphora 7 <a id="p-mra-7" href="#p-mra-7" style="font-size:.5em">🔗</a>
-See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA5 entries in KAA. Description of MRA5 (= Kapitän 2 & Niederbieber 77) from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/pictures.cfm?id=154).
+See [more](http://kenchreai.org/kaa/typology/p-mra-7) MRA 7 entries in KAA. Description of MRA 7 (= Kapitän 2 & Niederbieber 77) from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/pictures.cfm?id=154).
 
 - [urn:kaa:ke/ke2239 Middle Roman Amphora 7]
 - [urn:kaa:ke/ke2183 Middle Roman Amphora 7]
