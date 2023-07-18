@@ -1,6 +1,6 @@
 # The 1976 Excavations at Threpsiades: Pottery Catalog
 
-An emerging catalog.
+A developing catalog.
 
 ## Classical to Hellenistic
 - [urn:kaa:kth/kth1879 Corinthian A Amphora]
@@ -173,7 +173,7 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth2016 Flanged bowl]
 - [urn:kaa:kth/kth2017 Jug]
 
-### Late Roman Amphora 2: Argolid and Closely Related Fabrics
+### Late Roman Amphora 2: “Southern Argolid” and Closely Related Fabrics
 - [urn:kaa:kth/kth0442 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0010 Late Roman Amphora 2]
 - [urn:kaa:kth/kth0513 Late Roman Amphora 2]
@@ -195,6 +195,9 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1917 Late Roman Amphora 2 Toe]
 - [urn:kaa:kth/kth2007 LRA2 Toe (“Micaceous variant”)]
 - [urn:kaa:kth/kth1974 LRA2 Toe (“Micaceous variant”)]
+- [urn:kaa:kth/kth0755 LRA2 Toe]
+
+### Late Roman Amphora 2: Other Fabrics
 - [urn:kaa:kth/kth1445 “Lightly Combed” Late Roman Amphora 2]
 - [urn:kaa:kth/kth1637 LRA2 in Coarse Fabric]
 - [urn:kaa:kth/kth1446 Late Roman Amphora 2]
@@ -466,7 +469,7 @@ While no complete vessel is preserved, the association between the rims listed h
 - [urn:kaa:kth/kth1613 Phocaean Red Slip]
 - [urn:kaa:kth/kth1661 Late Roman Deep Basin]
 - [urn:kaa:kth/kth1704 Late Roman Cooking Pot]
-- [urn:kaa:kth/kth1709 Painted Byzantine[?] Vessel]
+- [urn:kaa:kth/kth1709 Painted Byzantine(?) Vessel]
 - [urn:kaa:kth/kth1733 Bowl]
 - [urn:kaa:kth/kth1735 Thin-wall beaker with high flaring rim]
 - [urn:kaa:kth/kth1738 Roman Thin-Walled Jug]
