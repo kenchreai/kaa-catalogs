@@ -170,6 +170,13 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 ### Late Roman Funnels
 - [urn:kaa:kth/kth0180 Large Funnel]
 
+### Kenchreai Ceramic Publications
+
+- Adamsheck, Bevereley. 1979. *Kenchreai IV: Kenchreai, Eastern Port of Corinth: The Pottery.* Leiden: Brill.
+- Heath, Sebastian, Joseph L. Rife, Jorge Bravo III, and Gavin Blasdel. 2015. “Preliminary Report on Early Byzantine Pottery from a Building Complex at Kenchreai (Greece).” *ISAW Papers* 10. [http://hdl.handle.net/2333.1/q83bk6k7](http://hdl.handle.net/2333.1/q83bk6k7).
+- Elena Korka and Joseph L. Rife, eds. 2022. *On the Edge of a Roman Port: Excavations at Koutsongila, Kenchreai, 2007-2014.* Princeton: American School of Classical Studies. (With extensive ceramic catalogs.)
+
+
 
 # Acknowledgements
 <a id="acknowledgements"></a>This catalog is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawies, Joseph Rife, Alicia Walsh, and others. The editors also thank all the staff and students who have contributed to the project.
