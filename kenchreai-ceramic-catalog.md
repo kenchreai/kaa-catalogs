@@ -70,7 +70,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 - [urn:kaa:kth/kth0461 Hayes Form 109]
 
 ### Phocaean Red Slip <a id="p-prs" href="#p-prs" style="font-size:.5em">🔗</a>
-See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
+See [all](http://kenchreai.org/kaa/typology/p-prs?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
