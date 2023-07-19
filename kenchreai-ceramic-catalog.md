@@ -175,7 +175,6 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-3).
 
 - [urn:kaa:ke/ke2284 Late Roman Amphora 3]
 - [urn:kaa:kcp/kp1988-009 Late Roman Amphora 3]
-- [urn:kaa:ke/ke2284 Late Roman Amphora 3]
 
 ### Late Roman Amphora 4 <a id="p-lra-4" href="#p-lra-4" style="font-size:.5em">🔗</a>
 See [more](http://kenchreai.org/kaa/typology/p-lra-4) LRA4 entries in KAA. Description of LRA4 from [*Roman Amphorae: A Digital Resource.*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=16).
