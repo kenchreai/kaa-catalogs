@@ -31,7 +31,7 @@ A developing catalog.
 - [urn:kaa:kth/kth2469 Pontic Sigillata Bowl]
 
 ### African Red Slip
-- [urn:kaa:kth/kth0688  ARS Hayes Form 50]
+- [urn:kaa:kth/kth0688 ARS Hayes Form 50]
 - [urn:kaa:kth/kth0632 ARS Hayes Form 50b]
 - [urn:kaa:kth/kth1224 ARS Hayes Form 50b]
 - [urn:kaa:kth/kth2673 ARS Hayes Form 67]
