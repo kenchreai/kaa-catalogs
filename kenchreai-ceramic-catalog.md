@@ -95,11 +95,13 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 - [urn:kaa:kcp/kp1976-010 Athenian Late Roman Gouged Ware Jug]
 - [urn:kaa:kcp/kp1976-006 Athenian Late Roman Gouged Ware Jug]
 
-## Amphoras
+## Archaic, Classical, and Hellenistic Amphoras
 
 ### Corinthian A Amphora
 
 - [urn:kaa:ke/ke2403 Corinthian A Amphora]
+
+## Roman Amphoras
 
 ### Forlimpopoli Amphora
 
