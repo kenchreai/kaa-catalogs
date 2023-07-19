@@ -15,11 +15,15 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 - [urn:kaa:ke/ke1328 Conspectus form 4.4]
 - [urn:kaa:ke/ke0518 Conspectus form 18.2]
 - [urn:kaa:ke/ke0519 Conspectus form 18/20]
+- [urn:kaa:ke/ke2072 Conspectus form 33]
 - [urn:kaa:ke/ke1392 Stemmed Cup (Conspectus R 9.2)]
 
 ### Eastern Sigillata A <a id="p-esa" href="#p-esa" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
 
+- [urn:kaa:ke/ke2103 Hayes Form 3]
+- [urn:kaa:ke/ke2179 Hayes Form 4]
+- [urn:kaa:ke/ke2306 Hayes Form 7]
 - [urn:kaa:ke/ke2074 Hayes Form 22b]
 - [urn:kaa:ke/ke2028 Hayes Form 47]
 - [urn:kaa:ke/ke1494 Hayes Form 50]
@@ -35,6 +39,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 ### Eastern Sigillata C <a id="p-esc" href="#p-esc" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
+- [urn:kaa:ke/ke0779 Loeschcke 9]
 - [urn:kaa:kcp/kp026 Loeschcke 26a]
 - [urn:kaa:ke/ke2165 Hayes Form 1]
 - [urn:kaa:ke/ke0670 Hayes Form 1]
@@ -73,6 +78,7 @@ See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 See [all](http://kenchreai.org/kaa/typology/p-prs?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
+- [urn:kaa:ke/ke2163 Hayes Form 1]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
 - [urn:kaa:kcp/kp1956-020 Hayes Form 3 Base with Stamp]
 - [urn:kaa:kth/kth1024 Hayes Form 10a]
@@ -109,6 +115,10 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 Description of Forlimpopoli Amphora from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=130).
 
 - [urn:kaa:kth/kth0644 Forlimpopoli Amphora]
+
+### Dressel 6 Amphora
+
+- [urn:kaa:ke/ke2190 Dressel 6 Amphora]
 
 ### Middle Roman Amphora 4 <a id="p-mra-4" href="#p-mra-4" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true). Description of MRA 4 (= Agora G199) from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=369).
@@ -149,6 +159,10 @@ See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entrie
 
 - [urn:kaa:kth/kth1567 Beirut 8 Amphora]
 - [urn:kaa:kth/kth2368 Beirut 8 Amphora]
+
+### Tropolitanian 2 Amphora
+
+- [urn:kaa:kcp/kp1989-008 Tropolitanian 2 Amphora]
 
 ### North African Keay 25
 
@@ -203,6 +217,8 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 
 ### Late Roman Funnels
 - [urn:kaa:kth/kth0180 Large Funnel]
+- [urn:kaa:kth/kth1281 Long Spouted Funnel]
+- [urn:kaa:kth/kth0008 Long Spouted Funnel]
 
 ## Selected Kenchreai Ceramic Publications
 
