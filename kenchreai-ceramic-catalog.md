@@ -5,7 +5,7 @@ A catalog illustrating the range of pottery and other ceramic objects at Kenchre
 
 The content here is being actively edited and includes information that will be updated. It is not yet representative of all the types of pottery that have been found at Kenchreai. To see the full record from the [Kenchreai Archaeology Archive](http://kenchreai.org/kaa) (KAA), click on the title of each catalog item. See [below](#acknowledgements) for acknowledgements.
 
-All measurements are in meters unless otherwise specified.
+All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
 
 ## Roman and Late Roman Finewares
 
@@ -99,6 +99,7 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 
 ### Corinthian A Amphora
 
+- [urn:kaa:kth/kth1879 Corinthian A Amphora]
 - [urn:kaa:ke/ke2403 Corinthian A Amphora]
 
 ## Roman Amphoras
