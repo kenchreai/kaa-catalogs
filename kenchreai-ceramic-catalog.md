@@ -150,7 +150,7 @@ See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entrie
 
 - [urn:kaa:kth/kth1648 Keay 25 Amphora]
 
-### North African Keath 61/62
+### North African Keay 61/62
 
 - [urn:kaa:kth/kth1685 Keay 61/62 Type Base]
 
