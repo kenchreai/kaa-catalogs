@@ -97,10 +97,11 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 
 ## Archaic, Classical, and Hellenistic Amphoras
 
-### Corinthian A Amphora
+### Corinthian A Amphora <a id="p-corinthian-a" href="#p-corinthian-a" style="font-size:.5em">🔗</a>
 
 - [urn:kaa:kth/kth1879 Corinthian A Amphora]
 - [urn:kaa:ke/ke2403 Corinthian A Amphora]
+- [urn:kaa:ke/ke1278 Corinthian A Amphora]
 
 ## Roman Amphoras
 
