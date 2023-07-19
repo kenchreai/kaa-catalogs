@@ -106,11 +106,13 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 ## Roman Amphoras
 
 ### Forlimpopoli Amphora
+Description of Forlimpopoli Amphora from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=130).
 
 - [urn:kaa:kth/kth0644 Forlimpopoli Amphora]
 
 ### Middle Roman Amphora 4 <a id="p-mra-4" href="#p-mra-4" style="font-size:.5em">🔗</a>
-See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true).
+See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true). Description of MRA 4 (= Agora G199) from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=369).
+
 
 - [urn:kaa:kcp/kp1989-009 Middle Roman Amphora 4]
 - [urn:kaa:kth/kth0489 Middle Roman Amphora 4]
