@@ -7,6 +7,10 @@ The content here is being actively edited and includes information that will be 
 
 All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
 
+## Archaic, Classical, and Hellenistic Finewares
+
+- [urn:]
+
 ## Roman and Late Roman Finewares
 
 ### Italian Sigillata <a id="p-sig-it" href="#p-sig-it" style="font-size:.5em">🔗</a>
@@ -79,6 +83,7 @@ See [all](http://kenchreai.org/kaa/typology/p-prs?more=true).
 
 - [urn:kaa:ke/ke2231 Hayes Form 1]
 - [urn:kaa:ke/ke2163 Hayes Form 1]
+- [urn:kaa:kth/kth0689 Hayes Form 2A]
 - [urn:kaa:ke/ke2161 Hayes Form 3]
 - [urn:kaa:kcp/kp1956-020 Hayes Form 3 Base with Stamp]
 - [urn:kaa:kth/kth1024 Hayes Form 10a]
@@ -120,9 +125,16 @@ Description of Forlimpopoli Amphora from [*Roman Amphorae: A Digital Resource*](
 
 - [urn:kaa:ke/ke2190 Dressel 6 Amphora]
 
+### Middle Roman Amphora 3
+See [all](http://kenchreai.org/kaa/typology/p-mra-3?more=true). MRA 3 is the one-handled predecessor to Late Roman Amphora 3, which has an entry below.
+
+- [urn:kaa:ke/ke2240 Middle Roman Amphora 3]
+- [urn:kaa:ke/ke2241 Middle Roman Amphora 3]
+- [urn:kaa:kcp/kp087 Middle Roman Amphora 3]
+- [urn:kaa:ke/ke2324 Middle Roman Amphora 3]
+
 ### Middle Roman Amphora 4 <a id="p-mra-4" href="#p-mra-4" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-mra-4?more=true). Description of MRA 4 (= Agora G199) from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=369).
-
 
 - [urn:kaa:kcp/kp1989-009 Middle Roman Amphora 4]
 - [urn:kaa:kth/kth0489 Middle Roman Amphora 4]
