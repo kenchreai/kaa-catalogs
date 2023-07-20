@@ -7,10 +7,6 @@ The content here is being actively edited and includes information that will be 
 
 All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
 
-## Archaic, Classical, and Hellenistic Finewares
-
-- [urn:]
-
 ## Roman and Late Roman Finewares
 
 ### Italian Sigillata <a id="p-sig-it" href="#p-sig-it" style="font-size:.5em">🔗</a>
