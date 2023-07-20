@@ -3,9 +3,14 @@ Sebastian Heath and Joseph L. Rife, Editors
 
 A catalog illustrating the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
 
-The content here is being actively edited and includes information that will be updated. It is not yet representative of all the types of pottery that have been found at Kenchreai. To see the full record from the [Kenchreai Archaeology Archive](http://kenchreai.org/kaa) (KAA), click on the title of each catalog item. See [below](#acknowledgements) for acknowledgements.
+The content here is being actively edited and includes information that will be updated. It is not yet representative of all the types of pottery that have been found at Kenchreai. To see the full record from the [Kenchreai Archaeological Archive](http://kenchreai.org/kaa) (KAA), click on the title of each catalog item. See [below](#acknowledgements) for acknowledgements.
 
 All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
+
+<!-- 
+## Archaic, Classical, and Hellenistic Finewares
+-->
+
 
 ## Roman and Late Roman Finewares
 
@@ -37,7 +42,7 @@ See [all](http://kenchreai.org/kaa/typology/p-esb?more=true).
 - [urn:kaa:kcp/kp1989-045 Hayes Form 80]
 
 ### Eastern Sigillata C <a id="p-esc" href="#p-esc" style="font-size:.5em">🔗</a>
-See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
+Also known as “Çandarlı Ware.” See [all](http://kenchreai.org/kaa/typology/p-esc?more=true).
 
 - [urn:kaa:ke/ke0779 Loeschcke 9]
 - [urn:kaa:kcp/kp026 Loeschcke 26a]
@@ -121,7 +126,7 @@ Description of Forlimpopoli Amphora from [*Roman Amphorae: A Digital Resource*](
 
 - [urn:kaa:ke/ke2190 Dressel 6 Amphora]
 
-### Middle Roman Amphora 3
+### Middle Roman Amphora 3 <a id="p-mra-3" href="#p-mra-3" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-mra-3?more=true). MRA 3 is the one-handled predecessor to Late Roman Amphora 3, which has an entry below.
 
 - [urn:kaa:ke/ke2240 Middle Roman Amphora 3]
@@ -235,4 +240,4 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 - Elena Korka and Joseph L. Rife, eds. 2022. *On the Edge of a Roman Port: Excavations at Koutsongila, Kenchreai, 2007-2014.* Princeton: American School of Classical Studies. (With extensive ceramic catalogs.)
 
 ## Acknowledgements
-<a id="acknowledgements"></a>This catalog is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawies, Joseph Rife, Alicia Walsh, and others. The editors also thank all the staff and students who have contributed to the project.
+<a id="acknowledgements"></a>This catalog is being prepared by Sebastian Heath (NYU) and Joseph L. Rife (Vanderbilt) as part of the Kenchreai Archaeological Archive. Professor Rife is the Director of the American Excavations at Kenchreai. All work at the site and on the finds takes place with the permission of Ministry of Culture and the oversight of the Corinthian Ephoreia under the auspices of the American School of Classical Studies at Athens. Gavin Blasdel (Groningen) has contributed to the preparation of catalog entries. Drawings are by Glynnis Fawkes, Michael Hawkes, Joseph Rife, Alicia Walsh, and others. The editors also thank all the staff and students who have contributed to the project.
