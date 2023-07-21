@@ -7,10 +7,11 @@ The content here is being actively edited and includes information that will be 
 
 All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
 
-<!-- 
 ## Archaic, Classical, and Hellenistic Finewares
--->
 
+- [urn:kaa:ke/ke0166 Attic Black Figure Skyphos]
+- [urn:kaa:ke/ke1261 Attic Red Figure]
+- [urn:kaa:ke/ke1300 Attic Black Figure Panathenaic Amphora(?)]
 
 ## Roman and Late Roman Finewares
 
@@ -22,6 +23,11 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 - [urn:kaa:ke/ke0519 Conspectus form 18/20]
 - [urn:kaa:ke/ke2072 Conspectus form 33]
 - [urn:kaa:ke/ke1392 Stemmed Cup (Conspectus R 9.2)]
+
+### Roman-period “Lead Glaze” Vessels
+
+- [urn:kaa:kp1962-001 Lead-Glaze Modiolus, on display in Corinth Museum]
+- [urn:kaa:ke/ke1898 Cup]
 
 ### Eastern Sigillata A <a id="p-esa" href="#p-esa" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-esa?more=true).
