@@ -26,7 +26,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
 
 ### Roman-period “Lead Glaze” Vessels
 
-- [urn:kaa:kp1962-001 Lead-Glaze Modiolus, on display in Corinth Museum]
+- [urn:kaa:kcp/kp1962-001 Lead-Glaze Modiolus, on display in Corinth Museum]
 - [urn:kaa:ke/ke1898 Cup]
 
 ### Eastern Sigillata A <a id="p-esa" href="#p-esa" style="font-size:.5em">🔗</a>
