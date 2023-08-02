@@ -1,9 +1,9 @@
 # Kenchreai Ceramic Catalog
 Sebastian Heath and Joseph L. Rife, Editors
 
-A catalog illustrating the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of work at the site.
+A catalog illustrating the range of pottery and other ceramic objects at Kenchreai in Greece. It draws on over 60 years of excavation and other work at the site.
 
-The content here is being actively edited and includes information that will be updated. It is not yet representative of all the types of pottery that have been found at Kenchreai. To see the full record from the [Kenchreai Archaeological Archive](http://kenchreai.org/kaa) (KAA), click on the title of each catalog item. See [below](#acknowledgements) for acknowledgements.
+The content here is being actively edited and includes information that will be updated. It is not yet representative of all the types of pottery that have been found at Kenchreai and currently reflects the predominance of Roman to Early Byzantine material. To see the full record from the [Kenchreai Archaeological Archive](http://kenchreai.org/kaa) (KAA), click on the title of each catalog item. See [below](#acknowledgements) for acknowledgements.
 
 All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
 
@@ -13,7 +13,7 @@ All measurements are in meters unless otherwise specified. The images that accom
 - [urn:kaa:ke/ke1261 Attic Red Figure]
 - [urn:kaa:ke/ke1300 Attic Black Figure Panathenaic Amphora(?)]
 
-## Roman and Late Roman Finewares
+## Roman through Late Roman Finewares
 
 ### Italian Sigillata <a id="p-sig-it" href="#p-sig-it" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
