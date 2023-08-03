@@ -81,7 +81,7 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-cyp?more=true).
 
 ### Knidian Relief Ware
 
-- [urn:kaa:kcp/km017]
+- [urn:kaa:kcp/km017 Thymaterion]
 
 ### African Red Slip <a id="p-ars" href="#p-ars" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
