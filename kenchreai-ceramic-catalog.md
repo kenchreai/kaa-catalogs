@@ -75,6 +75,14 @@ See [all](http://kenchreai.org/kaa/typology/p-sig-cyp?more=true).
 - [urn:kaa:ke/ke2009 Cypriot Sigillata Lagynos]
 - [urn:kaa:ke/ke2076 Cypriot Sigillata Hayes form P19]
 
+### Corinthian Relief Ware
+
+- [urn:kaa:ke/ke0302 Cup]
+
+### Knidian Relief Ware
+
+- [urn:kaa:kcp/km017]
+
 ### African Red Slip <a id="p-ars" href="#p-ars" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-ars?more=true).
 
