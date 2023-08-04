@@ -205,7 +205,7 @@ See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entrie
 - [urn:kaa:kth/kth0002 North African Spatheion]
 
 ### “Samos Cistern” and Related Forms <a id="p-samos-cistern-amphora" href="#p-samos-cistern-amphora" style="font-size:.5em">🔗</a>
-See [all](http://kenchreai.org/kaa/typology/p-samos-cistern-amphora).
+See [all](http://kenchreai.org/kaa/typology/p-samos-cistern-amphora). Description of [“Agora M273”](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=9) and [“Samos Cistern Type”](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=287) from *Roman Amphorae: A Digital Resource*.
 
 - [urn:kaa:kth/kth1323 “Samos Cistern” Amphora]
 - [urn:kaa:kth/kth0768 Toe]
@@ -215,7 +215,6 @@ See [all](http://kenchreai.org/kaa/typology/p-kenchreai-4-rc-22e). [@KenchreaiIV
 
 - [urn:kaa:ke/ke0679 “RC 22” Amphora]
 - [urn:kaa:ke/ke0544 “RC 22” Amphora]
-
 
 ### Late Roman Amphora 1 <a id="p-lra-1" href="#p-lra-1" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-lra-1).
