@@ -204,6 +204,12 @@ See [more](http://kenchreai.org/kaa/typology/p-amphora-beirut-8) Beirut 8 entrie
 
 - [urn:kaa:kth/kth0002 North African Spatheion]
 
+### “Samos Cistern” and Related Forms <a id="p-samos-cistern-amphora" href="#p-samos-cistern-amphora" style="font-size:.5em">🔗</a>
+See [all](http://kenchreai.org/kaa/typology/p-samos-cistern-amphora).
+
+- [urn:kaa:kth/kth1323 “Samos Cistern” Amphora]
+- [urn:kaa:kth/kth0768 Toe]
+
 ### “Kenchreai IV RC 22” (Ikarian?) Amphora <a id="p-kenchreai-4-rc-22e" href="#p-kenchreai-4-rc-22e" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-kenchreai-4-rc-22e). [@KenchreaiIV, (p. 117)] collected a group of amphoras that included a form whose origin has subsequently been tentatively identified as the island of Ikaria (e.g. [@Reynolds2010, p. 95, fig. 6j]). Even if this specific identification is not correct, the form is close to Agora M273 and Samos Cistern Amphora and its fabric is clearly Aegean. The form is well represented at Kenchreai and also appears at Corinth. Dipinti frequently appear on the necks of this form.
 
