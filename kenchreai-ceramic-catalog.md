@@ -269,6 +269,10 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 
 ## Utilitarian Vessels <a id="utilitarian-vessels"></a>
 
+### Late Roman Syrian Mortarium
+
+- [urn:kaa:ke/ke0268 Syrian Mortarium with Stamp]
+
 ### Late Roman Funnels
 - [urn:kaa:kth/kth0180 Large Funnel]
 - [urn:kaa:kth/kth1281 Long Spouted Funnel]
