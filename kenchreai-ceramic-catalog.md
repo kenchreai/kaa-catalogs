@@ -16,8 +16,13 @@ The major divisions of the catalog are currently:
 
 ## Archaic, Classical, and Hellenistic Finewares <a id="archaic-class-hell-fw"></a>
 
+### Corinthian Finewares
+
 - [urn:kaa:kth/kth1987 Archaic Corinthian Kotyle]
-- [urn:kaa:kth/kth2533 Archaic-Classical Corintiah Cup]
+- [urn:kaa:kth/kth2533 Archaic-Classical Corinthian Cup]
+
+### Attic Finewares
+- [urn:kaa:kth/kth2544 Late Archaic-Early Classical Attic One-Handler]
 - [urn:kaa:ke/ke0166 Attic Black Figure Skyphos]
 - [urn:kaa:ke/ke1261 Attic Red Figure]
 - [urn:kaa:ke/ke1300 Attic Black Figure Panathenaic Amphora(?)]
