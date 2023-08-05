@@ -7,7 +7,14 @@ The content here is being actively edited and includes information that will be 
 
 All measurements are in meters unless otherwise specified. The images that accompany each item are thumbnails and not to scale.
 
-## Archaic, Classical, and Hellenistic Finewares
+The major divisions of the catalog are currently:
+
+- [Archaic, Classical, and Hellenistic Finewares](#archaic-class-hell-fw)
+- [Roman through Late Roman Finewares](#roman-fw)
+- [Roman Amphoras](#roman-amphoras)
+- [Utilitarian Vessels](#utilitarian-vessels)
+
+## Archaic, Classical, and Hellenistic Finewares <a id="archaic-class-hell-fw"></a>
 
 - [urn:kaa:kth/kth1987 Archaic Corinthian Kotyle]
 - [urn:kaa:kth/kth2533 Archaic-Classical Corintiah Cup]
@@ -15,7 +22,7 @@ All measurements are in meters unless otherwise specified. The images that accom
 - [urn:kaa:ke/ke1261 Attic Red Figure]
 - [urn:kaa:ke/ke1300 Attic Black Figure Panathenaic Amphora(?)]
 
-## Roman through Late Roman Finewares
+## Roman through Late Roman Finewares <a id="roman-fw"></a>
 
 ### Italian Sigillata <a id="p-sig-it" href="#p-sig-it" style="font-size:.5em">🔗</a>
 See [all](http://kenchreai.org/kaa/typology/p-sig-it?more=true).
@@ -132,7 +139,7 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 - [urn:kaa:ke/ke2403 Corinthian A Amphora]
 - [urn:kaa:ke/ke1278 Corinthian A Amphora]
 
-## Roman Amphoras
+## Roman Amphoras <a id="roman-amphoras"></a>
 
 ### Forlimpopoli Amphora
 Description of Forlimpopoli Amphora from [*Roman Amphorae: A Digital Resource*](https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=130).
@@ -255,7 +262,7 @@ See [all](http://kenchreai.org/kaa/typology/p-lra-6).
 - [urn:kaa:kth/kth1093 Late Roman Amphora 6]
 - [urn:kaa:kth/kth1389 Late Roman Amphora 6]
 
-## Utilitarian Vessels
+## Utilitarian Vessels <a id="utilitarian-vessels"></a>
 
 ### Late Roman Funnels
 - [urn:kaa:kth/kth0180 Large Funnel]
