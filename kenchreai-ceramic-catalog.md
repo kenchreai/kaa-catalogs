@@ -9,6 +9,8 @@ All measurements are in meters unless otherwise specified. The images that accom
 
 ## Archaic, Classical, and Hellenistic Finewares
 
+- [urn:kaa:kth/kth1987 Archaic Corinthian Kotyle]
+- [urn:kaa:kth/kth2533 Archaic-Classical Corintiah Cup]
 - [urn:kaa:ke/ke0166 Attic Black Figure Skyphos]
 - [urn:kaa:ke/ke1261 Attic Red Figure]
 - [urn:kaa:ke/ke1300 Attic Black Figure Panathenaic Amphora(?)]
