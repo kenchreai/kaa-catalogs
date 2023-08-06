@@ -11,6 +11,7 @@ The major divisions of the catalog are currently:
 
 - [Archaic, Classical, and Hellenistic Finewares](#archaic-class-hell-fw)
 - [Roman through Late Roman Finewares](#roman-fw)
+- [Archaic, Classical, and Hellenistic Amphoras](#archaic-class-hell-amphoras)
 - [Roman Amphoras](#roman-amphoras)
 - [Utilitarian Vessels](#utilitarian-vessels)
 
@@ -136,7 +137,7 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 - [urn:kaa:kcp/kp1976-010 Athenian Late Roman Gouged Ware Jug]
 - [urn:kaa:kcp/kp1976-006 Athenian Late Roman Gouged Ware Jug]
 
-## Archaic, Classical, and Hellenistic Amphoras
+## Archaic, Classical, and Hellenistic Amphoras <a id="archaic-class-hell-amphoras"></a>
 
 ### Corinthian A Amphora <a id="p-corinthian-a" href="#p-corinthian-a" style="font-size:.5em">🔗</a>
 
