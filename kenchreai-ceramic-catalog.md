@@ -253,6 +253,7 @@ See [more](http://kenchreai.org/kaa/typology/p-lra-4) LRA4 entries in KAA. Descr
 
 - [urn:kaa:kth/kth0991 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1052 Late Roman Amphora 4]
+- [urn:kaa:kth/kth0960 Late Roman Amphora 4]
 - [urn:kaa:kth/kth1117 Late Roman Amphora 4]
 
 ### Late Roman Amphora 5 <a id="p-lra-5" href="#p-lra-5" style="font-size:.5em">🔗</a>
