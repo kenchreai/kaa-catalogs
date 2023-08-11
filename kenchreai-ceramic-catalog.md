@@ -137,6 +137,11 @@ See [all](http://kenchreai.org/kaa/typology/p-athenian-gouged?more=true).
 - [urn:kaa:kcp/kp1976-010 Athenian Late Roman Gouged Ware Jug]
 - [urn:kaa:kcp/kp1976-006 Athenian Late Roman Gouged Ware Jug]
 
+## Early and Middle Roman Thin-walled and Related Vessels
+
+- [urn:kaa:ke/ke2206 Italian Thin-wall Beaker, Marabini Moevs Form 8]
+- [urn:kaa:ke/ke2071 Italian Thin-wall Beaker, Marabini Moevs Form 32]
+
 ## Archaic, Classical, and Hellenistic Amphoras <a id="archaic-class-hell-amphoras"></a>
 
 ### Corinthian A Amphora <a id="p-corinthian-a" href="#p-corinthian-a" style="font-size:.5em">🔗</a>
